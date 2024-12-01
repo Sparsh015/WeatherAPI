@@ -1,0 +1,2847 @@
+2024-11-08 10:40:22,178 - INFO - API key successfully loaded.
+2024-11-08 10:40:22,179 - INFO - Starting weather data retrieval process...
+2024-11-08 10:40:22,179 - INFO - Checking internet connection...
+2024-11-08 10:40:22,597 - INFO - Internet connection is available.
+2024-11-08 10:40:22,599 - INFO - Fetching IP address...
+2024-11-08 10:40:24,065 - INFO - Data successfully retrieved from API.
+2024-11-08 10:40:24,066 - INFO - Extracting weather data...
+2024-11-08 10:40:24,066 - INFO - Extracting weather data...
+2024-11-08 10:40:24,066 - INFO - Location Name : Faridabad
+2024-11-08 10:40:24,066 - INFO - Local Time : 2024-11-08 10:37
+2024-11-08 10:40:24,066 - INFO - Condition : Mist
+2024-11-08 10:40:24,067 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:40:24,080 - INFO - Condition Code : 1030
+2024-11-08 10:40:24,081 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:40:24,081 - INFO - Humidity (%) : 58
+2024-11-08 10:40:24,081 - INFO - Feels Like (°C) : 25.8
+2024-11-08 10:40:24,082 - INFO - UV Index : 2.8
+2024-11-08 10:41:18,860 - INFO - API key successfully loaded.
+2024-11-08 10:41:18,861 - INFO - Starting weather data retrieval process...
+2024-11-08 10:41:18,861 - INFO - Checking internet connection...
+2024-11-08 10:41:19,421 - INFO - Internet connection is available.
+2024-11-08 10:41:19,423 - INFO - Fetching IP address...
+2024-11-08 10:41:21,270 - INFO - Data successfully retrieved from API.
+2024-11-08 10:41:21,272 - INFO - Extracting weather data...
+2024-11-08 10:41:21,272 - INFO - Extracting weather data...
+2024-11-08 10:41:21,272 - INFO - Location Name : Faridabad
+2024-11-08 10:41:21,272 - INFO - Local Time : 2024-11-08 10:41
+2024-11-08 10:41:21,272 - INFO - Condition : Mist
+2024-11-08 10:41:21,273 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:41:21,273 - INFO - Condition Code : 1030
+2024-11-08 10:41:21,273 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:41:21,273 - INFO - Humidity (%) : 58
+2024-11-08 10:41:21,273 - INFO - Feels Like (°C) : 25.8
+2024-11-08 10:41:21,273 - INFO - UV Index : 2.8
+2024-11-08 10:41:52,325 - INFO - API key successfully loaded.
+2024-11-08 10:41:52,325 - INFO - Starting weather data retrieval process...
+2024-11-08 10:41:52,325 - INFO - Checking internet connection...
+2024-11-08 10:41:52,805 - INFO - Internet connection is available.
+2024-11-08 10:41:52,806 - INFO - Fetching IP address...
+2024-11-08 10:41:54,302 - INFO - Data successfully retrieved from API.
+2024-11-08 10:41:54,303 - INFO - Extracting weather data...
+2024-11-08 10:41:54,303 - INFO - Extracting weather data...
+2024-11-08 10:41:54,304 - INFO - Location Name : Faridabad
+2024-11-08 10:41:54,304 - INFO - Local Time : 2024-11-08 10:41
+2024-11-08 10:41:54,304 - INFO - Condition : Mist
+2024-11-08 10:41:54,304 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:41:54,304 - INFO - Condition Code : 1030
+2024-11-08 10:41:54,304 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:41:54,304 - INFO - Humidity (%) : 58
+2024-11-08 10:41:54,304 - INFO - Feels Like (°C) : 25.8
+2024-11-08 10:41:54,304 - INFO - UV Index : 2.8
+2024-11-08 10:44:14,833 - INFO - API key successfully loaded.
+2024-11-08 10:44:14,833 - INFO - Starting weather data retrieval process...
+2024-11-08 10:44:14,833 - INFO - Checking internet connection...
+2024-11-08 10:44:15,475 - INFO - Internet connection is available.
+2024-11-08 10:44:15,476 - INFO - Fetching IP address...
+2024-11-08 10:44:17,219 - INFO - Data successfully retrieved from API.
+2024-11-08 10:44:17,220 - INFO - Extracting weather data...
+2024-11-08 10:44:17,221 - INFO - Extracting weather data...
+2024-11-08 10:44:17,221 - INFO - Location Name : Faridabad
+2024-11-08 10:44:17,221 - INFO - Local Time : 2024-11-08 10:41
+2024-11-08 10:44:17,222 - INFO - Condition : Mist
+2024-11-08 10:44:17,222 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:44:17,222 - INFO - Condition Code : 1030
+2024-11-08 10:44:17,222 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:44:17,222 - INFO - Humidity (%) : 58
+2024-11-08 10:44:17,222 - INFO - Feels Like (°C) : 25.8
+2024-11-08 10:44:17,222 - INFO - UV Index : 2.8
+2024-11-08 10:50:00,996 - INFO - API key successfully loaded.
+2024-11-08 10:50:00,996 - INFO - Starting weather data retrieval process...
+2024-11-08 10:50:00,996 - INFO - Checking internet connection...
+2024-11-08 10:50:01,322 - INFO - Internet connection is available.
+2024-11-08 10:50:01,323 - INFO - Fetching IP address...
+2024-11-08 10:50:03,046 - INFO - Data successfully retrieved from API.
+2024-11-08 10:50:03,047 - INFO - Extracting weather data...
+2024-11-08 10:50:03,047 - INFO - Extracting weather data...
+2024-11-08 10:50:03,047 - INFO - Location Name : Faridabad
+2024-11-08 10:50:03,048 - INFO - Local Time : 2024-11-08 10:49
+2024-11-08 10:50:03,048 - INFO - Condition : Mist
+2024-11-08 10:50:03,048 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:50:03,048 - INFO - Condition Code : 1030
+2024-11-08 10:50:03,048 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:50:03,048 - INFO - Humidity (%) : 54
+2024-11-08 10:50:03,048 - INFO - Feels Like (°C) : 26.4
+2024-11-08 10:50:03,048 - INFO - UV Index : 2.8
+2024-11-08 10:50:03,048 - INFO - Temp Celsius : 27.1
+2024-11-08 10:50:27,090 - INFO - API key successfully loaded.
+2024-11-08 10:50:27,090 - INFO - Starting weather data retrieval process...
+2024-11-08 10:50:27,090 - INFO - Checking internet connection...
+2024-11-08 10:50:27,380 - INFO - Internet connection is available.
+2024-11-08 10:50:27,381 - INFO - Fetching IP address...
+2024-11-08 10:50:28,524 - INFO - Data successfully retrieved from API.
+2024-11-08 10:50:28,525 - INFO - Extracting weather data...
+2024-11-08 10:50:28,525 - INFO - Extracting weather data...
+2024-11-08 10:50:28,525 - INFO - Location Name : Faridabad
+2024-11-08 10:50:28,525 - INFO - Local Time : 2024-11-08 10:49
+2024-11-08 10:50:28,525 - INFO - Condition : Mist
+2024-11-08 10:50:28,525 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:50:28,526 - INFO - Condition Code : 1030
+2024-11-08 10:50:28,526 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:50:28,526 - INFO - Humidity (%) : 54
+2024-11-08 10:50:28,526 - INFO - Feels Like (°C) : 26.4
+2024-11-08 10:50:28,526 - INFO - UV Index : 2.8
+2024-11-08 10:50:28,526 - INFO - Temp Celsius : 27.1
+2024-11-08 10:51:52,120 - INFO - API key successfully loaded.
+2024-11-08 10:51:52,120 - INFO - Starting weather data retrieval process...
+2024-11-08 10:51:52,120 - INFO - Checking internet connection...
+2024-11-08 10:51:52,528 - INFO - Internet connection is available.
+2024-11-08 10:51:52,529 - INFO - Fetching IP address...
+2024-11-08 10:51:54,011 - INFO - Data successfully retrieved from API.
+2024-11-08 10:51:54,011 - INFO - Extracting weather data...
+2024-11-08 10:51:54,012 - INFO - Extracting weather data...
+2024-11-08 10:51:54,012 - INFO - Location Name : Faridabad
+2024-11-08 10:51:54,012 - INFO - Local Time : 2024-11-08 10:49
+2024-11-08 10:51:54,012 - INFO - Condition : Mist
+2024-11-08 10:51:54,012 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:51:54,012 - INFO - Condition Code : 1030
+2024-11-08 10:51:54,012 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:51:54,012 - INFO - Humidity (%) : 54
+2024-11-08 10:51:54,012 - INFO - Feels Like (°C) : 26.4
+2024-11-08 10:51:54,013 - INFO - UV Index : 2.8
+2024-11-08 10:51:54,013 - INFO - Temp Celsius : 27.1
+2024-11-08 10:54:29,766 - INFO - API key successfully loaded.
+2024-11-08 10:54:29,767 - INFO - Starting weather data retrieval process...
+2024-11-08 10:54:29,767 - INFO - Checking internet connection...
+2024-11-08 10:54:30,192 - INFO - Internet connection is available.
+2024-11-08 10:54:30,192 - INFO - Fetching IP address...
+2024-11-08 10:54:31,900 - INFO - Data successfully retrieved from API.
+2024-11-08 10:54:31,901 - INFO - Extracting weather data...
+2024-11-08 10:54:31,901 - INFO - Extracting weather data...
+2024-11-08 10:54:31,901 - INFO - Location Name : Faridabad
+2024-11-08 10:54:31,901 - INFO - Local Time : 2024-11-08 10:54
+2024-11-08 10:54:31,901 - INFO - Condition : Mist
+2024-11-08 10:54:31,901 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:54:31,902 - INFO - Condition Code : 1030
+2024-11-08 10:54:31,902 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:54:31,902 - INFO - Humidity (%) : 54
+2024-11-08 10:54:31,902 - INFO - Feels Like (°C) : 26.4
+2024-11-08 10:54:31,902 - INFO - UV Index : 2.8
+2024-11-08 10:54:31,902 - INFO - Temp Celsius : 27.1
+2024-11-08 10:55:26,939 - INFO - API key successfully loaded.
+2024-11-08 10:55:26,940 - INFO - Starting weather data retrieval process...
+2024-11-08 10:55:26,940 - INFO - Checking internet connection...
+2024-11-08 10:55:27,529 - INFO - Internet connection is available.
+2024-11-08 10:55:27,529 - INFO - Fetching IP address...
+2024-11-08 10:55:28,996 - INFO - Data successfully retrieved from API.
+2024-11-08 10:55:28,997 - INFO - Extracting weather data...
+2024-11-08 10:55:28,997 - INFO - Extracting weather data...
+2024-11-08 10:55:28,997 - INFO - Location Name : Faridabad
+2024-11-08 10:55:28,997 - INFO - Local Time : 2024-11-08 10:54
+2024-11-08 10:55:28,997 - INFO - Condition : Mist
+2024-11-08 10:55:28,997 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 10:55:28,997 - INFO - Condition Code : 1030
+2024-11-08 10:55:28,998 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 10:55:28,998 - INFO - Humidity (%) : 54
+2024-11-08 10:55:28,998 - INFO - Feels Like (°C) : 26.4
+2024-11-08 10:55:28,998 - INFO - UV Index : 2.8
+2024-11-08 10:55:28,998 - INFO - Temp Celsius : 27.1
+2024-11-08 11:00:17,021 - INFO - API key successfully loaded.
+2024-11-08 11:00:17,021 - INFO - Starting weather data retrieval process...
+2024-11-08 11:00:17,021 - INFO - Checking internet connection...
+2024-11-08 11:00:17,503 - INFO - Internet connection is available.
+2024-11-08 11:00:17,504 - INFO - Fetching IP address...
+2024-11-08 11:00:18,962 - INFO - Data successfully retrieved from API.
+2024-11-08 11:00:18,963 - INFO - Extracting weather data...
+2024-11-08 11:00:18,963 - INFO - Extracting weather data...
+2024-11-08 11:00:18,963 - INFO - Location Name : Faridabad
+2024-11-08 11:00:18,963 - INFO - Local Time : 2024-11-08 11:00
+2024-11-08 11:00:18,963 - INFO - Condition : Mist
+2024-11-08 11:00:18,963 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:00:18,964 - INFO - Condition Code : 1030
+2024-11-08 11:00:18,964 - INFO - Wind Speed (kph) : 6.8
+2024-11-08 11:00:18,964 - INFO - Humidity (%) : 54
+2024-11-08 11:00:18,964 - INFO - Feels Like (°C) : 26.4
+2024-11-08 11:00:18,964 - INFO - UV Index : 2.8
+2024-11-08 11:00:18,964 - INFO - Temp Celsius : 27.1
+2024-11-08 11:05:58,187 - INFO - API key successfully loaded.
+2024-11-08 11:05:58,187 - INFO - Starting weather data retrieval process...
+2024-11-08 11:05:58,187 - INFO - Checking internet connection...
+2024-11-08 11:05:58,566 - INFO - Internet connection is available.
+2024-11-08 11:05:58,567 - INFO - Fetching IP address...
+2024-11-08 11:06:00,096 - INFO - Data successfully retrieved from API.
+2024-11-08 11:06:00,096 - INFO - Extracting weather data...
+2024-11-08 11:06:00,096 - INFO - Extracting weather data...
+2024-11-08 11:06:00,096 - INFO - Location Name : Faridabad
+2024-11-08 11:06:00,096 - INFO - Local Time : 2024-11-08 11:05
+2024-11-08 11:06:00,097 - INFO - Condition : Sunny
+2024-11-08 11:06:00,097 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:06:00,097 - INFO - Condition Code : 1000
+2024-11-08 11:06:00,097 - INFO - Wind Speed (kph) : 5.4
+2024-11-08 11:06:00,097 - INFO - Humidity (%) : 29
+2024-11-08 11:06:00,097 - INFO - Feels Like (°C) : 28.1
+2024-11-08 11:06:00,097 - INFO - UV Index : 3.9
+2024-11-08 11:06:00,097 - INFO - Temp Celsius : 29.2
+2024-11-08 11:07:33,621 - INFO - API key successfully loaded.
+2024-11-08 11:07:33,621 - INFO - Starting weather data retrieval process...
+2024-11-08 11:07:33,621 - INFO - Checking internet connection...
+2024-11-08 11:07:33,968 - INFO - Internet connection is available.
+2024-11-08 11:07:33,969 - INFO - Fetching IP address...
+2024-11-08 11:07:35,276 - INFO - Data successfully retrieved from API.
+2024-11-08 11:07:35,277 - INFO - Extracting weather data...
+2024-11-08 11:07:35,277 - INFO - Extracting weather data...
+2024-11-08 11:07:35,277 - INFO - Location Name : Faridabad
+2024-11-08 11:07:35,277 - INFO - Local Time : 2024-11-08 11:05
+2024-11-08 11:07:35,277 - INFO - Condition : Sunny
+2024-11-08 11:07:35,277 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:07:35,277 - INFO - Condition Code : 1000
+2024-11-08 11:07:35,278 - INFO - Wind Speed (kph) : 5.4
+2024-11-08 11:07:35,278 - INFO - Humidity (%) : 29
+2024-11-08 11:07:35,278 - INFO - Feels Like (°C) : 28.1
+2024-11-08 11:07:35,278 - INFO - UV Index : 3.9
+2024-11-08 11:07:35,278 - INFO - Temp Celsius : 29.2
+2024-11-08 11:08:09,529 - INFO - API key successfully loaded.
+2024-11-08 11:08:09,529 - INFO - Starting weather data retrieval process...
+2024-11-08 11:08:09,529 - INFO - Checking internet connection...
+2024-11-08 11:08:09,877 - INFO - Internet connection is available.
+2024-11-08 11:08:09,877 - INFO - Fetching IP address...
+2024-11-08 11:08:11,069 - INFO - Data successfully retrieved from API.
+2024-11-08 11:08:11,070 - INFO - Extracting weather data...
+2024-11-08 11:08:11,070 - INFO - Extracting weather data...
+2024-11-08 11:08:11,070 - INFO - Location Name : Faridabad
+2024-11-08 11:08:11,070 - INFO - Local Time : 2024-11-08 11:05
+2024-11-08 11:08:11,070 - INFO - Condition : Sunny
+2024-11-08 11:08:11,070 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:08:11,071 - INFO - Condition Code : 1000
+2024-11-08 11:08:11,071 - INFO - Wind Speed (kph) : 5.4
+2024-11-08 11:08:11,071 - INFO - Humidity (%) : 29
+2024-11-08 11:08:11,071 - INFO - Feels Like (°C) : 28.1
+2024-11-08 11:08:11,071 - INFO - UV Index : 3.9
+2024-11-08 11:08:11,071 - INFO - Temp Celsius : 29.2
+2024-11-08 11:08:27,393 - INFO - API key successfully loaded.
+2024-11-08 11:08:27,393 - INFO - Starting weather data retrieval process...
+2024-11-08 11:08:27,393 - INFO - Checking internet connection...
+2024-11-08 11:08:28,125 - INFO - Internet connection is available.
+2024-11-08 11:08:28,125 - INFO - Fetching IP address...
+2024-11-08 11:08:29,684 - INFO - Data successfully retrieved from API.
+2024-11-08 11:08:29,684 - INFO - Extracting weather data...
+2024-11-08 11:08:29,685 - INFO - Extracting weather data...
+2024-11-08 11:08:29,685 - INFO - Location Name : Faridabad
+2024-11-08 11:08:29,685 - INFO - Local Time : 2024-11-08 11:05
+2024-11-08 11:08:29,685 - INFO - Condition : Sunny
+2024-11-08 11:08:29,685 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:08:29,685 - INFO - Condition Code : 1000
+2024-11-08 11:08:29,685 - INFO - Wind Speed (kph) : 5.4
+2024-11-08 11:08:29,685 - INFO - Humidity (%) : 29
+2024-11-08 11:08:29,685 - INFO - Feels Like (°C) : 28.1
+2024-11-08 11:08:29,685 - INFO - UV Index : 3.9
+2024-11-08 11:08:29,686 - INFO - Temp Celsius : 29.2
+2024-11-08 11:09:44,192 - INFO - API key successfully loaded.
+2024-11-08 11:09:44,193 - INFO - Starting weather data retrieval process...
+2024-11-08 11:09:44,193 - INFO - Checking internet connection...
+2024-11-08 11:09:44,762 - INFO - Internet connection is available.
+2024-11-08 11:09:44,763 - INFO - Fetching IP address...
+2024-11-08 11:09:46,508 - INFO - Data successfully retrieved from API.
+2024-11-08 11:09:46,509 - INFO - Extracting weather data...
+2024-11-08 11:09:46,509 - INFO - Extracting weather data...
+2024-11-08 11:09:46,509 - INFO - Location Name : Faridabad
+2024-11-08 11:09:46,509 - INFO - Local Time : 2024-11-08 11:09
+2024-11-08 11:09:46,510 - INFO - Condition : Sunny
+2024-11-08 11:09:46,510 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:09:46,510 - INFO - Condition Code : 1000
+2024-11-08 11:09:46,510 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:09:46,510 - INFO - Humidity (%) : 30
+2024-11-08 11:09:46,510 - INFO - Feels Like (°C) : 28.3
+2024-11-08 11:09:46,510 - INFO - UV Index : 3.9
+2024-11-08 11:09:46,511 - INFO - Temp Celsius : 29.5
+2024-11-08 11:10:10,318 - INFO - API key successfully loaded.
+2024-11-08 11:10:10,318 - INFO - Starting weather data retrieval process...
+2024-11-08 11:10:10,318 - INFO - Checking internet connection...
+2024-11-08 11:10:10,762 - INFO - Internet connection is available.
+2024-11-08 11:10:10,763 - INFO - Fetching IP address...
+2024-11-08 11:10:11,897 - INFO - Data successfully retrieved from API.
+2024-11-08 11:10:11,898 - INFO - Extracting weather data...
+2024-11-08 11:10:11,898 - INFO - Extracting weather data...
+2024-11-08 11:10:11,899 - INFO - Location Name : Faridabad
+2024-11-08 11:10:11,899 - INFO - Local Time : 2024-11-08 11:09
+2024-11-08 11:10:11,899 - INFO - Condition : Sunny
+2024-11-08 11:10:11,899 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:10:11,899 - INFO - Condition Code : 1000
+2024-11-08 11:10:11,899 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:10:11,899 - INFO - Humidity (%) : 30
+2024-11-08 11:10:11,899 - INFO - Feels Like (°C) : 28.3
+2024-11-08 11:10:11,899 - INFO - UV Index : 3.9
+2024-11-08 11:10:11,900 - INFO - Temp Celsius : 29.5
+2024-11-08 11:10:21,236 - INFO - API key successfully loaded.
+2024-11-08 11:10:21,236 - INFO - Starting weather data retrieval process...
+2024-11-08 11:10:21,236 - INFO - Checking internet connection...
+2024-11-08 11:10:21,661 - INFO - Internet connection is available.
+2024-11-08 11:10:21,662 - INFO - Fetching IP address...
+2024-11-08 11:10:23,058 - INFO - Data successfully retrieved from API.
+2024-11-08 11:10:23,059 - INFO - Extracting weather data...
+2024-11-08 11:10:23,059 - INFO - Extracting weather data...
+2024-11-08 11:10:23,059 - INFO - Location Name : Faridabad
+2024-11-08 11:10:23,059 - INFO - Local Time : 2024-11-08 11:09
+2024-11-08 11:10:23,059 - INFO - Condition : Sunny
+2024-11-08 11:10:23,059 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:10:23,059 - INFO - Condition Code : 1000
+2024-11-08 11:10:23,059 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:10:23,059 - INFO - Humidity (%) : 30
+2024-11-08 11:10:23,059 - INFO - Feels Like (°C) : 28.3
+2024-11-08 11:10:23,059 - INFO - UV Index : 3.9
+2024-11-08 11:10:23,059 - INFO - Temp Celsius : 29.5
+2024-11-08 11:12:44,262 - INFO - API key successfully loaded.
+2024-11-08 11:12:44,263 - INFO - Starting weather data retrieval process...
+2024-11-08 11:12:44,263 - INFO - Checking internet connection...
+2024-11-08 11:12:44,587 - INFO - Internet connection is available.
+2024-11-08 11:12:44,589 - INFO - Fetching IP address...
+2024-11-08 11:12:45,924 - INFO - Data successfully retrieved from API.
+2024-11-08 11:12:45,925 - INFO - Extracting weather data...
+2024-11-08 11:12:45,925 - INFO - Extracting weather data...
+2024-11-08 11:12:45,925 - INFO - Location Name : Faridabad
+2024-11-08 11:12:45,925 - INFO - Local Time : 2024-11-08 11:09
+2024-11-08 11:12:45,925 - INFO - Condition : Sunny
+2024-11-08 11:12:45,925 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:12:45,926 - INFO - Condition Code : 1000
+2024-11-08 11:12:45,926 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:12:45,926 - INFO - Humidity (%) : 30
+2024-11-08 11:12:45,926 - INFO - Feels Like (°C) : 28.3
+2024-11-08 11:12:45,926 - INFO - UV Index : 3.9
+2024-11-08 11:12:45,926 - INFO - Temp Celsius : 29.5
+2024-11-08 11:12:58,635 - INFO - API key successfully loaded.
+2024-11-08 11:12:58,635 - INFO - Starting weather data retrieval process...
+2024-11-08 11:12:58,635 - INFO - Checking internet connection...
+2024-11-08 11:12:59,018 - INFO - Internet connection is available.
+2024-11-08 11:12:59,018 - INFO - Fetching IP address...
+2024-11-08 11:13:00,488 - INFO - Data successfully retrieved from API.
+2024-11-08 11:13:00,489 - INFO - Extracting weather data...
+2024-11-08 11:13:00,489 - INFO - Extracting weather data...
+2024-11-08 11:13:00,489 - INFO - Location Name : Faridabad
+2024-11-08 11:13:00,489 - INFO - Local Time : 2024-11-08 11:13
+2024-11-08 11:13:00,489 - INFO - Condition : Sunny
+2024-11-08 11:13:00,490 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 11:13:00,490 - INFO - Condition Code : 1000
+2024-11-08 11:13:00,490 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:13:00,490 - INFO - Humidity (%) : 30
+2024-11-08 11:13:00,490 - INFO - Feels Like (°C) : 28.3
+2024-11-08 11:13:00,490 - INFO - UV Index : 3.9
+2024-11-08 11:13:00,490 - INFO - Temp Celsius : 29.5
+2024-11-08 11:26:34,688 - INFO - API key successfully loaded.
+2024-11-08 11:26:34,689 - INFO - Starting weather data retrieval process...
+2024-11-08 11:26:34,689 - INFO - Checking internet connection...
+2024-11-08 11:26:35,097 - INFO - Internet connection is available.
+2024-11-08 11:26:35,098 - INFO - Fetching IP address...
+2024-11-08 11:26:36,688 - INFO - Data successfully retrieved from API.
+2024-11-08 11:26:36,689 - INFO - Extracting weather data...
+2024-11-08 11:26:36,689 - INFO - Extracting weather data...
+2024-11-08 11:26:36,689 - INFO - Location Name : Faridabad
+2024-11-08 11:26:36,689 - INFO - Local Time : 2024-11-08 11:26
+2024-11-08 11:26:36,689 - INFO - Condition : Mist
+2024-11-08 11:26:36,689 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:26:36,690 - INFO - Condition Code : 1030
+2024-11-08 11:26:36,690 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:26:36,690 - INFO - Humidity (%) : 55
+2024-11-08 11:26:36,690 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:26:36,690 - INFO - UV Index : 3.9
+2024-11-08 11:26:36,690 - INFO - Temp Celsius : 28.2
+2024-11-08 11:28:21,613 - INFO - API key successfully loaded.
+2024-11-08 11:28:21,614 - INFO - Starting weather data retrieval process...
+2024-11-08 11:28:21,614 - INFO - Checking internet connection...
+2024-11-08 11:28:22,074 - INFO - Internet connection is available.
+2024-11-08 11:28:22,075 - INFO - Fetching IP address...
+2024-11-08 11:28:23,389 - INFO - Data successfully retrieved from API.
+2024-11-08 11:28:23,390 - INFO - Extracting weather data...
+2024-11-08 11:28:23,390 - INFO - Extracting weather data...
+2024-11-08 11:28:23,390 - INFO - Location Name : Faridabad
+2024-11-08 11:28:23,391 - INFO - Local Time : 2024-11-08 11:26
+2024-11-08 11:28:23,391 - INFO - Condition : Mist
+2024-11-08 11:28:23,391 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:28:23,391 - INFO - Condition Code : 1030
+2024-11-08 11:28:23,391 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:28:23,391 - INFO - Humidity (%) : 55
+2024-11-08 11:28:23,391 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:28:23,391 - INFO - UV Index : 3.9
+2024-11-08 11:28:23,391 - INFO - Temp Celsius : 28.2
+2024-11-08 11:30:46,010 - INFO - API key successfully loaded.
+2024-11-08 11:30:46,010 - INFO - Starting weather data retrieval process...
+2024-11-08 11:30:46,010 - INFO - Checking internet connection...
+2024-11-08 11:30:46,452 - INFO - Internet connection is available.
+2024-11-08 11:30:46,452 - INFO - Fetching IP address...
+2024-11-08 11:30:48,188 - INFO - Data successfully retrieved from API.
+2024-11-08 11:30:48,189 - INFO - Extracting weather data...
+2024-11-08 11:30:48,190 - INFO - Extracting weather data...
+2024-11-08 11:30:48,190 - INFO - Location Name : Faridabad
+2024-11-08 11:30:48,190 - INFO - Local Time : 2024-11-08 11:30
+2024-11-08 11:30:48,190 - INFO - Condition : Mist
+2024-11-08 11:30:48,190 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:30:48,190 - INFO - Condition Code : 1030
+2024-11-08 11:30:48,190 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:30:48,190 - INFO - Humidity (%) : 55
+2024-11-08 11:30:48,191 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:30:48,191 - INFO - UV Index : 3.9
+2024-11-08 11:30:48,191 - INFO - Temp Celsius : 28.2
+2024-11-08 11:33:40,226 - INFO - API key successfully loaded.
+2024-11-08 11:33:40,226 - INFO - Starting weather data retrieval process...
+2024-11-08 11:33:40,226 - INFO - Checking internet connection...
+2024-11-08 11:33:40,665 - INFO - Internet connection is available.
+2024-11-08 11:33:40,665 - INFO - Fetching IP address...
+2024-11-08 11:33:41,963 - INFO - Data successfully retrieved from API.
+2024-11-08 11:33:41,964 - INFO - Extracting weather data...
+2024-11-08 11:33:41,964 - INFO - Extracting weather data...
+2024-11-08 11:33:41,964 - INFO - Location Name : Faridabad
+2024-11-08 11:33:41,964 - INFO - Local Time : 2024-11-08 11:30
+2024-11-08 11:33:41,964 - INFO - Condition : Mist
+2024-11-08 11:33:41,964 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:33:41,964 - INFO - Condition Code : 1030
+2024-11-08 11:33:41,964 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:33:41,965 - INFO - Humidity (%) : 55
+2024-11-08 11:33:41,965 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:33:41,965 - INFO - UV Index : 3.9
+2024-11-08 11:33:41,965 - INFO - Temp Celsius : 28.2
+2024-11-08 11:33:49,371 - INFO - API key successfully loaded.
+2024-11-08 11:33:49,371 - INFO - Starting weather data retrieval process...
+2024-11-08 11:33:49,371 - INFO - Checking internet connection...
+2024-11-08 11:33:49,772 - INFO - Internet connection is available.
+2024-11-08 11:33:49,773 - INFO - Fetching IP address...
+2024-11-08 11:33:51,203 - INFO - Data successfully retrieved from API.
+2024-11-08 11:33:51,203 - INFO - Extracting weather data...
+2024-11-08 11:33:51,203 - INFO - Extracting weather data...
+2024-11-08 11:33:51,203 - INFO - Location Name : Faridabad
+2024-11-08 11:33:51,203 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:33:51,203 - INFO - Condition : Mist
+2024-11-08 11:33:51,203 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:33:51,203 - INFO - Condition Code : 1030
+2024-11-08 11:33:51,203 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:33:51,203 - INFO - Humidity (%) : 55
+2024-11-08 11:33:51,203 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:33:51,203 - INFO - UV Index : 3.9
+2024-11-08 11:33:51,203 - INFO - Temp Celsius : 28.2
+2024-11-08 11:34:34,989 - INFO - API key successfully loaded.
+2024-11-08 11:34:34,989 - INFO - Starting weather data retrieval process...
+2024-11-08 11:34:34,989 - INFO - Checking internet connection...
+2024-11-08 11:34:35,383 - INFO - Internet connection is available.
+2024-11-08 11:34:35,384 - INFO - Fetching IP address...
+2024-11-08 11:34:36,829 - INFO - Data successfully retrieved from API.
+2024-11-08 11:34:36,830 - INFO - Extracting weather data...
+2024-11-08 11:34:36,830 - INFO - Extracting weather data...
+2024-11-08 11:34:36,830 - INFO - Location Name : Faridabad
+2024-11-08 11:34:36,830 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:34:36,830 - INFO - Condition : Mist
+2024-11-08 11:34:36,830 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:34:36,830 - INFO - Condition Code : 1030
+2024-11-08 11:34:36,830 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:34:36,831 - INFO - Humidity (%) : 55
+2024-11-08 11:34:36,831 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:34:36,831 - INFO - UV Index : 3.9
+2024-11-08 11:34:36,831 - INFO - Temp Celsius : 28.2
+2024-11-08 11:35:06,149 - INFO - API key successfully loaded.
+2024-11-08 11:35:06,149 - INFO - Starting weather data retrieval process...
+2024-11-08 11:35:06,149 - INFO - Checking internet connection...
+2024-11-08 11:35:06,619 - INFO - Internet connection is available.
+2024-11-08 11:35:06,620 - INFO - Fetching IP address...
+2024-11-08 11:35:07,774 - INFO - Data successfully retrieved from API.
+2024-11-08 11:35:07,775 - INFO - Extracting weather data...
+2024-11-08 11:35:07,775 - INFO - Extracting weather data...
+2024-11-08 11:35:07,776 - INFO - Location Name : Faridabad
+2024-11-08 11:35:07,776 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:35:07,776 - INFO - Condition : Mist
+2024-11-08 11:35:07,776 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:35:07,776 - INFO - Condition Code : 1030
+2024-11-08 11:35:07,776 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:35:07,776 - INFO - Humidity (%) : 55
+2024-11-08 11:35:07,776 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:35:07,777 - INFO - UV Index : 3.9
+2024-11-08 11:35:07,777 - INFO - Temp Celsius : 28.2
+2024-11-08 11:35:36,538 - INFO - API key successfully loaded.
+2024-11-08 11:35:36,538 - INFO - Starting weather data retrieval process...
+2024-11-08 11:35:36,538 - INFO - Checking internet connection...
+2024-11-08 11:35:36,846 - INFO - Internet connection is available.
+2024-11-08 11:35:36,847 - INFO - Fetching IP address...
+2024-11-08 11:35:38,081 - INFO - Data successfully retrieved from API.
+2024-11-08 11:35:38,082 - INFO - Extracting weather data...
+2024-11-08 11:35:38,082 - INFO - Extracting weather data...
+2024-11-08 11:35:38,082 - INFO - Location Name : Faridabad
+2024-11-08 11:35:38,083 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:35:38,083 - INFO - Condition : Mist
+2024-11-08 11:35:38,083 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:35:38,083 - INFO - Condition Code : 1030
+2024-11-08 11:35:38,083 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:35:38,083 - INFO - Humidity (%) : 55
+2024-11-08 11:35:38,084 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:35:38,084 - INFO - UV Index : 3.9
+2024-11-08 11:35:38,084 - INFO - Temp Celsius : 28.2
+2024-11-08 11:35:58,195 - INFO - API key successfully loaded.
+2024-11-08 11:35:58,195 - INFO - Starting weather data retrieval process...
+2024-11-08 11:35:58,195 - INFO - Checking internet connection...
+2024-11-08 11:35:58,808 - INFO - Internet connection is available.
+2024-11-08 11:35:58,808 - INFO - Fetching IP address...
+2024-11-08 11:36:00,051 - INFO - Data successfully retrieved from API.
+2024-11-08 11:36:00,052 - INFO - Extracting weather data...
+2024-11-08 11:36:00,052 - INFO - Extracting weather data...
+2024-11-08 11:36:00,052 - INFO - Location Name : Faridabad
+2024-11-08 11:36:00,052 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:36:00,052 - INFO - Condition : Mist
+2024-11-08 11:36:00,052 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:36:00,052 - INFO - Condition Code : 1030
+2024-11-08 11:36:00,052 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:36:00,052 - INFO - Humidity (%) : 55
+2024-11-08 11:36:00,052 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:36:00,052 - INFO - UV Index : 3.9
+2024-11-08 11:36:00,052 - INFO - Temp Celsius : 28.2
+2024-11-08 11:36:13,796 - INFO - API key successfully loaded.
+2024-11-08 11:36:13,796 - INFO - Starting weather data retrieval process...
+2024-11-08 11:36:13,796 - INFO - Checking internet connection...
+2024-11-08 11:36:14,152 - INFO - Internet connection is available.
+2024-11-08 11:36:14,153 - INFO - Fetching IP address...
+2024-11-08 11:36:15,408 - INFO - Data successfully retrieved from API.
+2024-11-08 11:36:15,408 - INFO - Extracting weather data...
+2024-11-08 11:36:15,409 - INFO - Extracting weather data...
+2024-11-08 11:36:15,409 - INFO - Location Name : Faridabad
+2024-11-08 11:36:15,409 - INFO - Local Time : 2024-11-08 11:33
+2024-11-08 11:36:15,409 - INFO - Condition : Mist
+2024-11-08 11:36:15,409 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:36:15,409 - INFO - Condition Code : 1030
+2024-11-08 11:36:15,409 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:36:15,409 - INFO - Humidity (%) : 55
+2024-11-08 11:36:15,409 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:36:15,410 - INFO - UV Index : 3.9
+2024-11-08 11:36:15,410 - INFO - Temp Celsius : 28.2
+2024-11-08 11:37:13,617 - INFO - API key successfully loaded.
+2024-11-08 11:37:13,617 - INFO - Starting weather data retrieval process...
+2024-11-08 11:37:13,617 - INFO - Checking internet connection...
+2024-11-08 11:37:13,942 - INFO - Internet connection is available.
+2024-11-08 11:37:13,943 - INFO - Fetching IP address...
+2024-11-08 11:37:15,301 - INFO - Data successfully retrieved from API.
+2024-11-08 11:37:15,302 - INFO - Extracting weather data...
+2024-11-08 11:37:15,302 - INFO - Extracting weather data...
+2024-11-08 11:37:15,302 - INFO - Location Name : Faridabad
+2024-11-08 11:37:15,302 - INFO - Local Time : 2024-11-08 11:37
+2024-11-08 11:37:15,303 - INFO - Condition : Mist
+2024-11-08 11:37:15,303 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:37:15,303 - INFO - Condition Code : 1030
+2024-11-08 11:37:15,303 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:37:15,303 - INFO - Humidity (%) : 55
+2024-11-08 11:37:15,303 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:37:15,303 - INFO - UV Index : 3.9
+2024-11-08 11:37:15,303 - INFO - Temp Celsius : 28.2
+2024-11-08 11:38:53,758 - INFO - API key successfully loaded.
+2024-11-08 11:38:53,759 - INFO - Starting weather data retrieval process...
+2024-11-08 11:38:53,759 - INFO - Checking internet connection...
+2024-11-08 11:38:54,219 - INFO - Internet connection is available.
+2024-11-08 11:38:54,220 - INFO - Fetching IP address...
+2024-11-08 11:38:55,522 - INFO - Data successfully retrieved from API.
+2024-11-08 11:38:55,523 - INFO - Extracting weather data...
+2024-11-08 11:38:55,523 - INFO - Extracting weather data...
+2024-11-08 11:38:55,523 - INFO - Location Name : Faridabad
+2024-11-08 11:38:55,523 - INFO - Local Time : 2024-11-08 11:37
+2024-11-08 11:38:55,523 - INFO - Condition : Mist
+2024-11-08 11:38:55,523 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:38:55,524 - INFO - Condition Code : 1030
+2024-11-08 11:38:55,524 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:38:55,524 - INFO - Humidity (%) : 55
+2024-11-08 11:38:55,524 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:38:55,524 - INFO - UV Index : 3.9
+2024-11-08 11:38:55,524 - INFO - Temp Celsius : 28.2
+2024-11-08 11:40:24,894 - INFO - API key successfully loaded.
+2024-11-08 11:40:24,894 - INFO - Starting weather data retrieval process...
+2024-11-08 11:40:24,894 - INFO - Checking internet connection...
+2024-11-08 11:40:25,283 - INFO - Internet connection is available.
+2024-11-08 11:40:25,284 - INFO - Fetching IP address...
+2024-11-08 11:40:26,944 - INFO - Data successfully retrieved from API.
+2024-11-08 11:40:26,945 - INFO - Extracting weather data...
+2024-11-08 11:40:26,945 - INFO - Extracting weather data...
+2024-11-08 11:40:26,945 - INFO - Location Name : Faridabad
+2024-11-08 11:40:26,945 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:40:26,946 - INFO - Condition : Mist
+2024-11-08 11:40:26,947 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:40:26,948 - INFO - Condition Code : 1030
+2024-11-08 11:40:26,948 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:40:26,948 - INFO - Humidity (%) : 55
+2024-11-08 11:40:26,949 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:40:26,949 - INFO - UV Index : 3.9
+2024-11-08 11:40:26,949 - INFO - Temp Celsius : 28.2
+2024-11-08 11:40:40,898 - INFO - API key successfully loaded.
+2024-11-08 11:40:40,898 - INFO - Starting weather data retrieval process...
+2024-11-08 11:40:40,898 - INFO - Checking internet connection...
+2024-11-08 11:40:41,200 - INFO - Internet connection is available.
+2024-11-08 11:40:41,201 - INFO - Fetching IP address...
+2024-11-08 11:40:42,375 - INFO - Data successfully retrieved from API.
+2024-11-08 11:40:42,376 - INFO - Extracting weather data...
+2024-11-08 11:40:42,376 - INFO - Extracting weather data...
+2024-11-08 11:40:42,377 - INFO - Location Name : Faridabad
+2024-11-08 11:40:42,377 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:40:42,377 - INFO - Condition : Mist
+2024-11-08 11:40:42,377 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:40:42,377 - INFO - Condition Code : 1030
+2024-11-08 11:40:42,377 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:40:42,377 - INFO - Humidity (%) : 55
+2024-11-08 11:40:42,377 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:40:42,378 - INFO - UV Index : 3.9
+2024-11-08 11:40:42,378 - INFO - Temp Celsius : 28.2
+2024-11-08 11:41:14,840 - INFO - API key successfully loaded.
+2024-11-08 11:41:14,840 - INFO - Starting weather data retrieval process...
+2024-11-08 11:41:14,840 - INFO - Checking internet connection...
+2024-11-08 11:41:15,148 - INFO - Internet connection is available.
+2024-11-08 11:41:15,149 - INFO - Fetching IP address...
+2024-11-08 11:41:16,337 - INFO - Data successfully retrieved from API.
+2024-11-08 11:41:16,338 - INFO - Extracting weather data...
+2024-11-08 11:41:16,339 - INFO - Extracting weather data...
+2024-11-08 11:41:16,339 - INFO - Location Name : Faridabad
+2024-11-08 11:41:16,339 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:41:16,339 - INFO - Condition : Mist
+2024-11-08 11:41:16,339 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:41:16,339 - INFO - Condition Code : 1030
+2024-11-08 11:41:16,339 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:41:16,340 - INFO - Humidity (%) : 55
+2024-11-08 11:41:16,340 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:41:16,340 - INFO - UV Index : 3.9
+2024-11-08 11:41:16,340 - INFO - Temp Celsius : 28.2
+2024-11-08 11:41:29,082 - INFO - API key successfully loaded.
+2024-11-08 11:41:29,082 - INFO - Starting weather data retrieval process...
+2024-11-08 11:41:29,082 - INFO - Checking internet connection...
+2024-11-08 11:41:29,346 - INFO - Internet connection is available.
+2024-11-08 11:41:29,348 - INFO - Fetching IP address...
+2024-11-08 11:41:30,663 - INFO - Data successfully retrieved from API.
+2024-11-08 11:41:30,664 - INFO - Extracting weather data...
+2024-11-08 11:41:30,664 - INFO - Extracting weather data...
+2024-11-08 11:41:30,664 - INFO - Location Name : Faridabad
+2024-11-08 11:41:30,665 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:41:30,665 - INFO - Condition : Mist
+2024-11-08 11:41:30,665 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:41:30,665 - INFO - Condition Code : 1030
+2024-11-08 11:41:30,665 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:41:30,665 - INFO - Humidity (%) : 55
+2024-11-08 11:41:30,665 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:41:30,666 - INFO - UV Index : 3.9
+2024-11-08 11:41:30,666 - INFO - Temp Celsius : 28.2
+2024-11-08 11:41:49,649 - INFO - API key successfully loaded.
+2024-11-08 11:41:49,650 - INFO - Starting weather data retrieval process...
+2024-11-08 11:41:49,650 - INFO - Checking internet connection...
+2024-11-08 11:41:50,134 - INFO - Internet connection is available.
+2024-11-08 11:41:50,135 - INFO - Fetching IP address...
+2024-11-08 11:41:51,360 - INFO - Data successfully retrieved from API.
+2024-11-08 11:41:51,361 - INFO - Extracting weather data...
+2024-11-08 11:41:51,361 - INFO - Extracting weather data...
+2024-11-08 11:41:51,362 - INFO - Location Name : Faridabad
+2024-11-08 11:41:51,362 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:41:51,362 - INFO - Condition : Mist
+2024-11-08 11:41:51,362 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:41:51,362 - INFO - Condition Code : 1030
+2024-11-08 11:41:51,362 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:41:51,362 - INFO - Humidity (%) : 55
+2024-11-08 11:41:51,362 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:41:51,362 - INFO - UV Index : 3.9
+2024-11-08 11:41:51,363 - INFO - Temp Celsius : 28.2
+2024-11-08 11:42:58,937 - INFO - API key successfully loaded.
+2024-11-08 11:42:58,937 - INFO - Starting weather data retrieval process...
+2024-11-08 11:42:58,937 - INFO - Checking internet connection...
+2024-11-08 11:42:59,277 - INFO - Internet connection is available.
+2024-11-08 11:42:59,278 - INFO - Fetching IP address...
+2024-11-08 11:43:00,538 - INFO - Data successfully retrieved from API.
+2024-11-08 11:43:00,539 - INFO - Extracting weather data...
+2024-11-08 11:43:00,539 - INFO - Extracting weather data...
+2024-11-08 11:43:00,539 - INFO - Location Name : Faridabad
+2024-11-08 11:43:00,539 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:43:00,540 - INFO - Condition : Mist
+2024-11-08 11:43:00,540 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:43:00,540 - INFO - Condition Code : 1030
+2024-11-08 11:43:00,540 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:43:00,540 - INFO - Humidity (%) : 55
+2024-11-08 11:43:00,540 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:43:00,540 - INFO - UV Index : 3.9
+2024-11-08 11:43:00,540 - INFO - Temp Celsius : 28.2
+2024-11-08 11:43:14,939 - INFO - API key successfully loaded.
+2024-11-08 11:43:14,939 - INFO - Starting weather data retrieval process...
+2024-11-08 11:43:14,939 - INFO - Checking internet connection...
+2024-11-08 11:43:15,725 - INFO - Internet connection is available.
+2024-11-08 11:43:15,726 - INFO - Fetching IP address...
+2024-11-08 11:43:16,931 - INFO - Data successfully retrieved from API.
+2024-11-08 11:43:16,932 - INFO - Extracting weather data...
+2024-11-08 11:43:16,932 - INFO - Extracting weather data...
+2024-11-08 11:43:16,932 - INFO - Location Name : Faridabad
+2024-11-08 11:43:16,933 - INFO - Local Time : 2024-11-08 11:40
+2024-11-08 11:43:16,933 - INFO - Condition : Mist
+2024-11-08 11:43:16,933 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:43:16,933 - INFO - Condition Code : 1030
+2024-11-08 11:43:16,933 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:43:16,933 - INFO - Humidity (%) : 55
+2024-11-08 11:43:16,933 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:43:16,933 - INFO - UV Index : 3.9
+2024-11-08 11:43:16,933 - INFO - Temp Celsius : 28.2
+2024-11-08 11:43:56,437 - INFO - API key successfully loaded.
+2024-11-08 11:43:56,437 - INFO - Starting weather data retrieval process...
+2024-11-08 11:43:56,437 - INFO - Checking internet connection...
+2024-11-08 11:43:56,914 - INFO - Internet connection is available.
+2024-11-08 11:43:56,915 - INFO - Fetching IP address...
+2024-11-08 11:43:58,284 - INFO - Data successfully retrieved from API.
+2024-11-08 11:43:58,285 - INFO - Extracting weather data...
+2024-11-08 11:43:58,285 - INFO - Extracting weather data...
+2024-11-08 11:43:58,285 - INFO - Location Name : Faridabad
+2024-11-08 11:43:58,285 - INFO - Local Time : 2024-11-08 11:43
+2024-11-08 11:43:58,285 - INFO - Condition : Mist
+2024-11-08 11:43:58,285 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:43:58,285 - INFO - Condition Code : 1030
+2024-11-08 11:43:58,285 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:43:58,286 - INFO - Humidity (%) : 55
+2024-11-08 11:43:58,286 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:43:58,286 - INFO - UV Index : 3.9
+2024-11-08 11:43:58,286 - INFO - Temp Celsius : 28.2
+2024-11-08 11:45:11,396 - INFO - API key successfully loaded.
+2024-11-08 11:45:11,396 - INFO - Starting weather data retrieval process...
+2024-11-08 11:45:11,396 - INFO - Checking internet connection...
+2024-11-08 11:45:11,717 - INFO - Internet connection is available.
+2024-11-08 11:45:11,718 - INFO - Fetching IP address...
+2024-11-08 11:45:14,052 - INFO - Data successfully retrieved from API.
+2024-11-08 11:45:14,053 - INFO - Extracting weather data...
+2024-11-08 11:45:14,053 - INFO - Extracting weather data...
+2024-11-08 11:45:14,053 - INFO - Location Name : Faridabad
+2024-11-08 11:45:14,053 - INFO - Local Time : 2024-11-08 11:43
+2024-11-08 11:45:14,053 - INFO - Condition : Mist
+2024-11-08 11:45:14,054 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:45:14,054 - INFO - Condition Code : 1030
+2024-11-08 11:45:14,054 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:45:14,054 - INFO - Humidity (%) : 55
+2024-11-08 11:45:14,054 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:45:14,054 - INFO - UV Index : 3.9
+2024-11-08 11:45:14,054 - INFO - Temp Celsius : 28.2
+2024-11-08 11:45:32,336 - INFO - API key successfully loaded.
+2024-11-08 11:45:32,336 - INFO - Starting weather data retrieval process...
+2024-11-08 11:45:32,337 - INFO - Checking internet connection...
+2024-11-08 11:45:32,627 - INFO - Internet connection is available.
+2024-11-08 11:45:32,629 - INFO - Fetching IP address...
+2024-11-08 11:45:33,941 - INFO - Data successfully retrieved from API.
+2024-11-08 11:45:33,942 - INFO - Extracting weather data...
+2024-11-08 11:45:33,942 - INFO - Extracting weather data...
+2024-11-08 11:45:33,942 - INFO - Location Name : Faridabad
+2024-11-08 11:45:33,942 - INFO - Local Time : 2024-11-08 11:43
+2024-11-08 11:45:33,942 - INFO - Condition : Mist
+2024-11-08 11:45:33,942 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 11:45:33,942 - INFO - Condition Code : 1030
+2024-11-08 11:45:33,943 - INFO - Wind Speed (kph) : 4.7
+2024-11-08 11:45:33,943 - INFO - Humidity (%) : 55
+2024-11-08 11:45:33,943 - INFO - Feels Like (°C) : 27.1
+2024-11-08 11:45:33,943 - INFO - UV Index : 3.9
+2024-11-08 11:45:33,943 - INFO - Temp Celsius : 28.2
+2024-11-08 12:05:52,557 - INFO - API key successfully loaded.
+2024-11-08 12:05:52,557 - INFO - Starting weather data retrieval process...
+2024-11-08 12:05:52,557 - INFO - Checking internet connection...
+2024-11-08 12:05:52,911 - INFO - Internet connection is available.
+2024-11-08 12:05:52,912 - INFO - Fetching IP address...
+2024-11-08 12:05:54,413 - INFO - Data successfully retrieved from API.
+2024-11-08 12:05:54,414 - INFO - Extracting weather data...
+2024-11-08 12:05:54,414 - INFO - Extracting weather data...
+2024-11-08 12:05:54,414 - INFO - Location Name : Faridabad
+2024-11-08 12:05:54,414 - INFO - Local Time : 2024-11-08 12:05
+2024-11-08 12:05:54,414 - INFO - Condition : Sunny
+2024-11-08 12:05:54,415 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:05:54,415 - INFO - Condition Code : 1000
+2024-11-08 12:05:54,415 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:05:54,415 - INFO - Humidity (%) : 27
+2024-11-08 12:05:54,415 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:05:54,415 - INFO - UV Index : 4.2
+2024-11-08 12:05:54,415 - INFO - Temp Celsius : 30.6
+2024-11-08 12:07:52,665 - INFO - API key successfully loaded.
+2024-11-08 12:07:52,665 - INFO - Starting weather data retrieval process...
+2024-11-08 12:07:52,666 - INFO - Checking internet connection...
+2024-11-08 12:07:53,313 - INFO - Internet connection is available.
+2024-11-08 12:07:53,314 - INFO - Fetching IP address...
+2024-11-08 12:07:54,630 - INFO - Data successfully retrieved from API.
+2024-11-08 12:07:54,631 - INFO - Extracting weather data...
+2024-11-08 12:07:54,631 - INFO - Extracting weather data...
+2024-11-08 12:07:54,631 - INFO - Location Name : Faridabad
+2024-11-08 12:07:54,631 - INFO - Local Time : 2024-11-08 12:05
+2024-11-08 12:07:54,631 - INFO - Condition : Sunny
+2024-11-08 12:07:54,632 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:07:54,632 - INFO - Condition Code : 1000
+2024-11-08 12:07:54,632 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:07:54,632 - INFO - Humidity (%) : 27
+2024-11-08 12:07:54,632 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:07:54,632 - INFO - UV Index : 4.2
+2024-11-08 12:07:54,632 - INFO - Temp Celsius : 30.6
+2024-11-08 12:08:18,726 - INFO - API key successfully loaded.
+2024-11-08 12:08:18,726 - INFO - Starting weather data retrieval process...
+2024-11-08 12:08:18,726 - INFO - Checking internet connection...
+2024-11-08 12:08:19,088 - INFO - Internet connection is available.
+2024-11-08 12:08:19,089 - INFO - Fetching IP address...
+2024-11-08 12:08:20,225 - INFO - Data successfully retrieved from API.
+2024-11-08 12:08:20,226 - INFO - Extracting weather data...
+2024-11-08 12:08:20,226 - INFO - Extracting weather data...
+2024-11-08 12:08:20,226 - INFO - Location Name : Faridabad
+2024-11-08 12:08:20,226 - INFO - Local Time : 2024-11-08 12:05
+2024-11-08 12:08:20,227 - INFO - Condition : Sunny
+2024-11-08 12:08:20,227 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:08:20,227 - INFO - Condition Code : 1000
+2024-11-08 12:08:20,227 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:08:20,227 - INFO - Humidity (%) : 27
+2024-11-08 12:08:20,227 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:08:20,227 - INFO - UV Index : 4.2
+2024-11-08 12:08:20,227 - INFO - Temp Celsius : 30.6
+2024-11-08 12:09:02,458 - INFO - API key successfully loaded.
+2024-11-08 12:09:02,458 - INFO - Starting weather data retrieval process...
+2024-11-08 12:09:02,458 - INFO - Checking internet connection...
+2024-11-08 12:09:02,966 - INFO - Internet connection is available.
+2024-11-08 12:09:02,967 - INFO - Fetching IP address...
+2024-11-08 12:09:04,749 - INFO - Data successfully retrieved from API.
+2024-11-08 12:09:04,750 - INFO - Extracting weather data...
+2024-11-08 12:09:04,750 - INFO - Extracting weather data...
+2024-11-08 12:09:04,750 - INFO - Location Name : Faridabad
+2024-11-08 12:09:04,750 - INFO - Local Time : 2024-11-08 12:08
+2024-11-08 12:09:04,750 - INFO - Condition : Sunny
+2024-11-08 12:09:04,750 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:09:04,750 - INFO - Condition Code : 1000
+2024-11-08 12:09:04,751 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:09:04,751 - INFO - Humidity (%) : 27
+2024-11-08 12:09:04,751 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:09:04,751 - INFO - UV Index : 4.2
+2024-11-08 12:09:04,751 - INFO - Temp Celsius : 30.6
+2024-11-08 12:09:33,682 - INFO - API key successfully loaded.
+2024-11-08 12:09:33,682 - INFO - Starting weather data retrieval process...
+2024-11-08 12:09:33,682 - INFO - Checking internet connection...
+2024-11-08 12:09:34,412 - INFO - Internet connection is available.
+2024-11-08 12:09:34,413 - INFO - Fetching IP address...
+2024-11-08 12:09:35,556 - INFO - Data successfully retrieved from API.
+2024-11-08 12:09:35,557 - INFO - Extracting weather data...
+2024-11-08 12:09:35,557 - INFO - Extracting weather data...
+2024-11-08 12:09:35,557 - INFO - Location Name : Faridabad
+2024-11-08 12:09:35,557 - INFO - Local Time : 2024-11-08 12:08
+2024-11-08 12:09:35,557 - INFO - Condition : Sunny
+2024-11-08 12:09:35,557 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:09:35,558 - INFO - Condition Code : 1000
+2024-11-08 12:09:35,558 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:09:35,558 - INFO - Humidity (%) : 27
+2024-11-08 12:09:35,558 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:09:35,558 - INFO - UV Index : 4.2
+2024-11-08 12:09:35,558 - INFO - Temp Celsius : 30.6
+2024-11-08 12:09:54,824 - INFO - API key successfully loaded.
+2024-11-08 12:09:54,824 - INFO - Starting weather data retrieval process...
+2024-11-08 12:09:54,824 - INFO - Checking internet connection...
+2024-11-08 12:09:55,170 - INFO - Internet connection is available.
+2024-11-08 12:09:55,171 - INFO - Fetching IP address...
+2024-11-08 12:09:56,535 - INFO - Data successfully retrieved from API.
+2024-11-08 12:09:56,536 - INFO - Extracting weather data...
+2024-11-08 12:09:56,536 - INFO - Extracting weather data...
+2024-11-08 12:09:56,536 - INFO - Location Name : Faridabad
+2024-11-08 12:09:56,536 - INFO - Local Time : 2024-11-08 12:08
+2024-11-08 12:09:56,537 - INFO - Condition : Sunny
+2024-11-08 12:09:56,537 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:09:56,537 - INFO - Condition Code : 1000
+2024-11-08 12:09:56,537 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:09:56,537 - INFO - Humidity (%) : 27
+2024-11-08 12:09:56,537 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:09:56,537 - INFO - UV Index : 4.2
+2024-11-08 12:09:56,537 - INFO - Temp Celsius : 30.6
+2024-11-08 12:10:41,086 - INFO - API key successfully loaded.
+2024-11-08 12:10:41,086 - INFO - Starting weather data retrieval process...
+2024-11-08 12:10:41,086 - INFO - Checking internet connection...
+2024-11-08 12:10:41,601 - INFO - Internet connection is available.
+2024-11-08 12:10:41,602 - INFO - Fetching IP address...
+2024-11-08 12:10:42,936 - INFO - Data successfully retrieved from API.
+2024-11-08 12:10:42,937 - INFO - Extracting weather data...
+2024-11-08 12:10:42,937 - INFO - Extracting weather data...
+2024-11-08 12:10:42,937 - INFO - Location Name : Faridabad
+2024-11-08 12:10:42,937 - INFO - Local Time : 2024-11-08 12:08
+2024-11-08 12:10:42,937 - INFO - Condition : Sunny
+2024-11-08 12:10:42,938 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:10:42,938 - INFO - Condition Code : 1000
+2024-11-08 12:10:42,938 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:10:42,938 - INFO - Humidity (%) : 27
+2024-11-08 12:10:42,938 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:10:42,938 - INFO - UV Index : 4.2
+2024-11-08 12:10:42,938 - INFO - Temp Celsius : 30.6
+2024-11-08 12:11:07,128 - INFO - API key successfully loaded.
+2024-11-08 12:11:07,128 - INFO - Starting weather data retrieval process...
+2024-11-08 12:11:07,128 - INFO - Checking internet connection...
+2024-11-08 12:11:07,468 - INFO - Internet connection is available.
+2024-11-08 12:11:07,468 - INFO - Fetching IP address...
+2024-11-08 12:11:08,608 - INFO - Data successfully retrieved from API.
+2024-11-08 12:11:08,608 - INFO - Extracting weather data...
+2024-11-08 12:11:08,609 - INFO - Extracting weather data...
+2024-11-08 12:11:08,609 - INFO - Location Name : Faridabad
+2024-11-08 12:11:08,609 - INFO - Local Time : 2024-11-08 12:08
+2024-11-08 12:11:08,609 - INFO - Condition : Sunny
+2024-11-08 12:11:08,609 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:11:08,610 - INFO - Condition Code : 1000
+2024-11-08 12:11:08,610 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:11:08,610 - INFO - Humidity (%) : 27
+2024-11-08 12:11:08,610 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:11:08,610 - INFO - UV Index : 4.2
+2024-11-08 12:11:08,610 - INFO - Temp Celsius : 30.6
+2024-11-08 12:14:14,364 - INFO - API key successfully loaded.
+2024-11-08 12:14:14,364 - INFO - Starting weather data retrieval process...
+2024-11-08 12:14:14,364 - INFO - Checking internet connection...
+2024-11-08 12:14:15,002 - INFO - Internet connection is available.
+2024-11-08 12:14:15,002 - INFO - Fetching IP address...
+2024-11-08 12:14:16,516 - INFO - Data successfully retrieved from API.
+2024-11-08 12:14:16,517 - INFO - Extracting weather data...
+2024-11-08 12:14:16,517 - INFO - Extracting weather data...
+2024-11-08 12:14:16,518 - INFO - Location Name : Faridabad
+2024-11-08 12:14:16,518 - INFO - Local Time : 2024-11-08 12:14
+2024-11-08 12:14:16,518 - INFO - Condition : Sunny
+2024-11-08 12:14:16,518 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:14:16,518 - INFO - Condition Code : 1000
+2024-11-08 12:14:16,518 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:14:16,518 - INFO - Humidity (%) : 27
+2024-11-08 12:14:16,518 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:14:16,518 - INFO - UV Index : 4.2
+2024-11-08 12:14:16,519 - INFO - Temp Celsius : 30.6
+2024-11-08 12:14:30,968 - INFO - API key successfully loaded.
+2024-11-08 12:14:30,968 - INFO - Starting weather data retrieval process...
+2024-11-08 12:14:30,968 - INFO - Checking internet connection...
+2024-11-08 12:14:31,601 - INFO - Internet connection is available.
+2024-11-08 12:14:31,602 - INFO - Fetching IP address...
+2024-11-08 12:14:32,741 - INFO - Data successfully retrieved from API.
+2024-11-08 12:14:32,742 - INFO - Extracting weather data...
+2024-11-08 12:14:32,742 - INFO - Extracting weather data...
+2024-11-08 12:14:32,742 - INFO - Location Name : Faridabad
+2024-11-08 12:14:32,742 - INFO - Local Time : 2024-11-08 12:14
+2024-11-08 12:14:32,743 - INFO - Condition : Sunny
+2024-11-08 12:14:32,743 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:14:32,743 - INFO - Condition Code : 1000
+2024-11-08 12:14:32,743 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:14:32,743 - INFO - Humidity (%) : 27
+2024-11-08 12:14:32,743 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:14:32,743 - INFO - UV Index : 4.2
+2024-11-08 12:14:32,743 - INFO - Temp Celsius : 30.6
+2024-11-08 12:14:46,897 - INFO - API key successfully loaded.
+2024-11-08 12:14:46,897 - INFO - Starting weather data retrieval process...
+2024-11-08 12:14:46,897 - INFO - Checking internet connection...
+2024-11-08 12:14:47,370 - INFO - Internet connection is available.
+2024-11-08 12:14:47,371 - INFO - Fetching IP address...
+2024-11-08 12:14:48,758 - INFO - Data successfully retrieved from API.
+2024-11-08 12:14:48,759 - INFO - Extracting weather data...
+2024-11-08 12:14:48,759 - INFO - Extracting weather data...
+2024-11-08 12:14:48,759 - INFO - Location Name : Faridabad
+2024-11-08 12:14:48,760 - INFO - Local Time : 2024-11-08 12:14
+2024-11-08 12:14:48,760 - INFO - Condition : Sunny
+2024-11-08 12:14:48,760 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 12:14:48,760 - INFO - Condition Code : 1000
+2024-11-08 12:14:48,760 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:14:48,760 - INFO - Humidity (%) : 27
+2024-11-08 12:14:48,760 - INFO - Feels Like (°C) : 29.2
+2024-11-08 12:14:48,760 - INFO - UV Index : 4.2
+2024-11-08 12:14:48,760 - INFO - Temp Celsius : 30.6
+2024-11-08 12:18:02,856 - INFO - API key successfully loaded.
+2024-11-08 12:18:02,856 - INFO - Starting weather data retrieval process...
+2024-11-08 12:18:02,856 - INFO - Checking internet connection...
+2024-11-08 12:18:03,230 - INFO - Internet connection is available.
+2024-11-08 12:18:03,231 - INFO - Fetching IP address...
+2024-11-08 12:18:04,587 - INFO - Data successfully retrieved from API.
+2024-11-08 12:18:04,588 - INFO - Extracting weather data...
+2024-11-08 12:18:04,588 - INFO - Extracting weather data...
+2024-11-08 12:18:04,588 - INFO - Location Name : Faridabad
+2024-11-08 12:18:04,588 - INFO - Local Time : 2024-11-08 12:17
+2024-11-08 12:18:04,588 - INFO - Condition : Mist
+2024-11-08 12:18:04,588 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:18:04,588 - INFO - Condition Code : 1030
+2024-11-08 12:18:04,588 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:18:04,588 - INFO - Humidity (%) : 52
+2024-11-08 12:18:04,588 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:18:04,589 - INFO - UV Index : 4.2
+2024-11-08 12:18:04,589 - INFO - Temp Celsius : 29.2
+2024-11-08 12:19:15,901 - INFO - API key successfully loaded.
+2024-11-08 12:19:15,901 - INFO - Starting weather data retrieval process...
+2024-11-08 12:19:15,902 - INFO - Checking internet connection...
+2024-11-08 12:19:16,866 - INFO - Internet connection is available.
+2024-11-08 12:19:16,868 - INFO - Fetching IP address...
+2024-11-08 12:19:18,116 - INFO - Data successfully retrieved from API.
+2024-11-08 12:19:18,117 - INFO - Extracting weather data...
+2024-11-08 12:19:18,117 - INFO - Extracting weather data...
+2024-11-08 12:19:18,117 - INFO - Location Name : Faridabad
+2024-11-08 12:19:18,117 - INFO - Local Time : 2024-11-08 12:17
+2024-11-08 12:19:18,117 - INFO - Condition : Mist
+2024-11-08 12:19:18,117 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:19:18,117 - INFO - Condition Code : 1030
+2024-11-08 12:19:18,117 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:19:18,118 - INFO - Humidity (%) : 52
+2024-11-08 12:19:18,118 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:19:18,118 - INFO - UV Index : 4.2
+2024-11-08 12:19:18,118 - INFO - Temp Celsius : 29.2
+2024-11-08 12:23:08,582 - INFO - API key successfully loaded.
+2024-11-08 12:23:08,582 - INFO - Starting weather data retrieval process...
+2024-11-08 12:23:08,582 - INFO - Checking internet connection...
+2024-11-08 12:23:08,925 - INFO - Internet connection is available.
+2024-11-08 12:23:08,926 - INFO - Fetching IP address...
+2024-11-08 12:23:10,314 - INFO - Data successfully retrieved from API.
+2024-11-08 12:23:10,315 - INFO - Extracting weather data...
+2024-11-08 12:23:10,315 - INFO - Extracting weather data...
+2024-11-08 12:23:10,315 - INFO - Location Name : Faridabad
+2024-11-08 12:23:10,315 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:23:10,316 - INFO - Condition : Mist
+2024-11-08 12:23:10,316 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:23:10,316 - INFO - Condition Code : 1030
+2024-11-08 12:23:10,316 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:23:10,316 - INFO - Humidity (%) : 52
+2024-11-08 12:23:10,316 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:23:10,316 - INFO - UV Index : 4.2
+2024-11-08 12:23:10,316 - INFO - Temp Celsius : 29.2
+2024-11-08 12:23:29,482 - INFO - API key successfully loaded.
+2024-11-08 12:23:29,482 - INFO - Starting weather data retrieval process...
+2024-11-08 12:23:29,482 - INFO - Checking internet connection...
+2024-11-08 12:23:29,766 - INFO - Internet connection is available.
+2024-11-08 12:23:29,767 - INFO - Fetching IP address...
+2024-11-08 12:23:30,960 - INFO - Data successfully retrieved from API.
+2024-11-08 12:23:30,961 - INFO - Extracting weather data...
+2024-11-08 12:23:30,961 - INFO - Extracting weather data...
+2024-11-08 12:23:30,961 - INFO - Location Name : Faridabad
+2024-11-08 12:23:30,961 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:23:30,961 - INFO - Condition : Mist
+2024-11-08 12:23:30,962 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:23:30,962 - INFO - Condition Code : 1030
+2024-11-08 12:23:30,962 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:23:30,962 - INFO - Humidity (%) : 52
+2024-11-08 12:23:30,962 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:23:30,962 - INFO - UV Index : 4.2
+2024-11-08 12:23:30,962 - INFO - Temp Celsius : 29.2
+2024-11-08 12:23:46,195 - INFO - API key successfully loaded.
+2024-11-08 12:23:46,195 - INFO - Starting weather data retrieval process...
+2024-11-08 12:23:46,195 - INFO - Checking internet connection...
+2024-11-08 12:23:46,630 - INFO - Internet connection is available.
+2024-11-08 12:23:46,631 - INFO - Fetching IP address...
+2024-11-08 12:23:48,005 - INFO - Data successfully retrieved from API.
+2024-11-08 12:23:48,006 - INFO - Extracting weather data...
+2024-11-08 12:23:48,006 - INFO - Extracting weather data...
+2024-11-08 12:23:48,006 - INFO - Location Name : Faridabad
+2024-11-08 12:23:48,007 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:23:48,007 - INFO - Condition : Mist
+2024-11-08 12:23:48,007 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:23:48,007 - INFO - Condition Code : 1030
+2024-11-08 12:23:48,007 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:23:48,007 - INFO - Humidity (%) : 52
+2024-11-08 12:23:48,007 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:23:48,007 - INFO - UV Index : 4.2
+2024-11-08 12:23:48,007 - INFO - Temp Celsius : 29.2
+2024-11-08 12:24:43,356 - INFO - API key successfully loaded.
+2024-11-08 12:24:43,356 - INFO - Starting weather data retrieval process...
+2024-11-08 12:24:43,356 - INFO - Checking internet connection...
+2024-11-08 12:24:43,719 - INFO - Internet connection is available.
+2024-11-08 12:24:43,720 - INFO - Fetching IP address...
+2024-11-08 12:24:44,986 - INFO - Data successfully retrieved from API.
+2024-11-08 12:24:44,987 - INFO - Extracting weather data...
+2024-11-08 12:24:44,987 - INFO - Extracting weather data...
+2024-11-08 12:24:44,987 - INFO - Location Name : Faridabad
+2024-11-08 12:24:44,987 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:24:44,987 - INFO - Condition : Mist
+2024-11-08 12:24:44,988 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:24:44,988 - INFO - Condition Code : 1030
+2024-11-08 12:24:44,988 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:24:44,988 - INFO - Humidity (%) : 52
+2024-11-08 12:24:44,988 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:24:44,988 - INFO - UV Index : 4.2
+2024-11-08 12:24:44,988 - INFO - Temp Celsius : 29.2
+2024-11-08 12:25:02,059 - INFO - API key successfully loaded.
+2024-11-08 12:25:02,059 - INFO - Starting weather data retrieval process...
+2024-11-08 12:25:02,059 - INFO - Checking internet connection...
+2024-11-08 12:25:02,791 - INFO - Internet connection is available.
+2024-11-08 12:25:02,792 - INFO - Fetching IP address...
+2024-11-08 12:25:04,012 - INFO - Data successfully retrieved from API.
+2024-11-08 12:25:04,013 - INFO - Extracting weather data...
+2024-11-08 12:25:04,013 - INFO - Extracting weather data...
+2024-11-08 12:25:04,013 - INFO - Location Name : Faridabad
+2024-11-08 12:25:04,014 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:25:04,014 - INFO - Condition : Mist
+2024-11-08 12:25:04,014 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:25:04,014 - INFO - Condition Code : 1030
+2024-11-08 12:25:04,014 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:25:04,014 - INFO - Humidity (%) : 52
+2024-11-08 12:25:04,014 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:25:04,014 - INFO - UV Index : 4.2
+2024-11-08 12:25:04,014 - INFO - Temp Celsius : 29.2
+2024-11-08 12:25:33,809 - INFO - API key successfully loaded.
+2024-11-08 12:25:33,809 - INFO - Starting weather data retrieval process...
+2024-11-08 12:25:33,809 - INFO - Checking internet connection...
+2024-11-08 12:25:34,178 - INFO - Internet connection is available.
+2024-11-08 12:25:34,178 - INFO - Fetching IP address...
+2024-11-08 12:25:35,747 - INFO - Data successfully retrieved from API.
+2024-11-08 12:25:35,748 - INFO - Extracting weather data...
+2024-11-08 12:25:35,749 - INFO - Extracting weather data...
+2024-11-08 12:25:35,749 - INFO - Location Name : Faridabad
+2024-11-08 12:25:35,749 - INFO - Local Time : 2024-11-08 12:23
+2024-11-08 12:25:35,749 - INFO - Condition : Mist
+2024-11-08 12:25:35,749 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:25:35,749 - INFO - Condition Code : 1030
+2024-11-08 12:25:35,749 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:25:35,750 - INFO - Humidity (%) : 52
+2024-11-08 12:25:35,750 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:25:35,750 - INFO - UV Index : 4.2
+2024-11-08 12:25:35,750 - INFO - Temp Celsius : 29.2
+2024-11-08 12:26:53,397 - INFO - API key successfully loaded.
+2024-11-08 12:26:53,397 - INFO - Starting weather data retrieval process...
+2024-11-08 12:26:53,398 - INFO - Checking internet connection...
+2024-11-08 12:26:54,110 - INFO - Internet connection is available.
+2024-11-08 12:26:54,111 - INFO - Fetching IP address...
+2024-11-08 12:26:55,487 - INFO - Data successfully retrieved from API.
+2024-11-08 12:26:55,488 - INFO - Extracting weather data...
+2024-11-08 12:26:55,488 - INFO - Extracting weather data...
+2024-11-08 12:26:55,488 - INFO - Location Name : Faridabad
+2024-11-08 12:26:55,489 - INFO - Local Time : 2024-11-08 12:26
+2024-11-08 12:26:55,489 - INFO - Condition : Mist
+2024-11-08 12:26:55,489 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:26:55,489 - INFO - Condition Code : 1030
+2024-11-08 12:26:55,489 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:26:55,489 - INFO - Humidity (%) : 52
+2024-11-08 12:26:55,489 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:26:55,489 - INFO - UV Index : 4.2
+2024-11-08 12:26:55,489 - INFO - Temp Celsius : 29.2
+2024-11-08 12:27:23,550 - INFO - API key successfully loaded.
+2024-11-08 12:27:23,550 - INFO - Starting weather data retrieval process...
+2024-11-08 12:27:23,550 - INFO - Checking internet connection...
+2024-11-08 12:27:24,027 - INFO - Internet connection is available.
+2024-11-08 12:27:24,028 - INFO - Fetching IP address...
+2024-11-08 12:27:25,181 - INFO - Data successfully retrieved from API.
+2024-11-08 12:27:25,181 - INFO - Extracting weather data...
+2024-11-08 12:27:25,182 - INFO - Extracting weather data...
+2024-11-08 12:27:25,182 - INFO - Location Name : Faridabad
+2024-11-08 12:27:25,182 - INFO - Local Time : 2024-11-08 12:26
+2024-11-08 12:27:25,182 - INFO - Condition : Mist
+2024-11-08 12:27:25,182 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:27:25,182 - INFO - Condition Code : 1030
+2024-11-08 12:27:25,182 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:27:25,182 - INFO - Humidity (%) : 52
+2024-11-08 12:27:25,182 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:27:25,183 - INFO - UV Index : 4.2
+2024-11-08 12:27:25,183 - INFO - Temp Celsius : 29.2
+2024-11-08 12:28:55,042 - INFO - API key successfully loaded.
+2024-11-08 12:28:55,042 - INFO - Starting weather data retrieval process...
+2024-11-08 12:28:55,042 - INFO - Checking internet connection...
+2024-11-08 12:28:55,382 - INFO - Internet connection is available.
+2024-11-08 12:28:55,383 - INFO - Fetching IP address...
+2024-11-08 12:28:56,603 - INFO - Data successfully retrieved from API.
+2024-11-08 12:28:56,604 - INFO - Extracting weather data...
+2024-11-08 12:28:56,604 - INFO - Extracting weather data...
+2024-11-08 12:28:56,605 - INFO - Location Name : Faridabad
+2024-11-08 12:28:56,605 - INFO - Local Time : 2024-11-08 12:26
+2024-11-08 12:28:56,605 - INFO - Condition : Mist
+2024-11-08 12:28:56,605 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:28:56,605 - INFO - Condition Code : 1030
+2024-11-08 12:28:56,605 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:28:56,605 - INFO - Humidity (%) : 52
+2024-11-08 12:28:56,606 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:28:56,606 - INFO - UV Index : 4.2
+2024-11-08 12:28:56,606 - INFO - Temp Celsius : 29.2
+2024-11-08 12:29:11,676 - INFO - API key successfully loaded.
+2024-11-08 12:29:11,677 - INFO - Starting weather data retrieval process...
+2024-11-08 12:29:11,677 - INFO - Checking internet connection...
+2024-11-08 12:29:12,335 - INFO - Internet connection is available.
+2024-11-08 12:29:12,336 - INFO - Fetching IP address...
+2024-11-08 12:29:13,693 - INFO - Data successfully retrieved from API.
+2024-11-08 12:29:13,696 - INFO - Extracting weather data...
+2024-11-08 12:29:13,696 - INFO - Extracting weather data...
+2024-11-08 12:29:13,696 - INFO - Location Name : Faridabad
+2024-11-08 12:29:13,696 - INFO - Local Time : 2024-11-08 12:26
+2024-11-08 12:29:13,696 - INFO - Condition : Mist
+2024-11-08 12:29:13,697 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:29:13,697 - INFO - Condition Code : 1030
+2024-11-08 12:29:13,697 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:29:13,697 - INFO - Humidity (%) : 52
+2024-11-08 12:29:13,697 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:29:13,697 - INFO - UV Index : 4.2
+2024-11-08 12:29:13,697 - INFO - Temp Celsius : 29.2
+2024-11-08 12:29:22,548 - INFO - API key successfully loaded.
+2024-11-08 12:29:22,548 - INFO - Starting weather data retrieval process...
+2024-11-08 12:29:22,548 - INFO - Checking internet connection...
+2024-11-08 12:29:23,047 - INFO - Internet connection is available.
+2024-11-08 12:29:23,048 - INFO - Fetching IP address...
+2024-11-08 12:29:24,250 - INFO - Data successfully retrieved from API.
+2024-11-08 12:29:24,251 - INFO - Extracting weather data...
+2024-11-08 12:29:24,251 - INFO - Extracting weather data...
+2024-11-08 12:29:24,251 - INFO - Location Name : Faridabad
+2024-11-08 12:29:24,251 - INFO - Local Time : 2024-11-08 12:26
+2024-11-08 12:29:24,252 - INFO - Condition : Mist
+2024-11-08 12:29:24,252 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:29:24,252 - INFO - Condition Code : 1030
+2024-11-08 12:29:24,252 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:29:24,252 - INFO - Humidity (%) : 52
+2024-11-08 12:29:24,252 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:29:24,253 - INFO - UV Index : 4.2
+2024-11-08 12:29:24,253 - INFO - Temp Celsius : 29.2
+2024-11-08 12:29:56,120 - INFO - API key successfully loaded.
+2024-11-08 12:29:56,120 - INFO - Starting weather data retrieval process...
+2024-11-08 12:29:56,121 - INFO - Checking internet connection...
+2024-11-08 12:29:56,868 - INFO - Internet connection is available.
+2024-11-08 12:29:56,869 - INFO - Fetching IP address...
+2024-11-08 12:29:58,265 - INFO - Data successfully retrieved from API.
+2024-11-08 12:29:58,266 - INFO - Extracting weather data...
+2024-11-08 12:29:58,266 - INFO - Extracting weather data...
+2024-11-08 12:29:58,266 - INFO - Location Name : Faridabad
+2024-11-08 12:29:58,266 - INFO - Local Time : 2024-11-08 12:29
+2024-11-08 12:29:58,267 - INFO - Condition : Mist
+2024-11-08 12:29:58,267 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:29:58,267 - INFO - Condition Code : 1030
+2024-11-08 12:29:58,267 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:29:58,267 - INFO - Humidity (%) : 52
+2024-11-08 12:29:58,267 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:29:58,267 - INFO - UV Index : 4.2
+2024-11-08 12:29:58,267 - INFO - Temp Celsius : 29.2
+2024-11-08 12:30:22,022 - INFO - API key successfully loaded.
+2024-11-08 12:30:22,022 - INFO - Starting weather data retrieval process...
+2024-11-08 12:30:22,022 - INFO - Checking internet connection...
+2024-11-08 12:30:22,474 - INFO - Internet connection is available.
+2024-11-08 12:30:22,476 - INFO - Fetching IP address...
+2024-11-08 12:30:23,708 - INFO - Data successfully retrieved from API.
+2024-11-08 12:30:23,709 - INFO - Extracting weather data...
+2024-11-08 12:30:23,709 - INFO - Extracting weather data...
+2024-11-08 12:30:23,709 - INFO - Location Name : Faridabad
+2024-11-08 12:30:23,710 - INFO - Local Time : 2024-11-08 12:29
+2024-11-08 12:30:23,710 - INFO - Condition : Mist
+2024-11-08 12:30:23,710 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:30:23,710 - INFO - Condition Code : 1030
+2024-11-08 12:30:23,710 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:30:23,710 - INFO - Humidity (%) : 52
+2024-11-08 12:30:23,710 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:30:23,710 - INFO - UV Index : 4.2
+2024-11-08 12:30:23,710 - INFO - Temp Celsius : 29.2
+2024-11-08 12:30:53,766 - INFO - API key successfully loaded.
+2024-11-08 12:30:53,767 - INFO - Starting weather data retrieval process...
+2024-11-08 12:30:53,767 - INFO - Checking internet connection...
+2024-11-08 12:30:54,451 - INFO - Internet connection is available.
+2024-11-08 12:30:54,452 - INFO - Fetching IP address...
+2024-11-08 12:30:55,660 - INFO - Data successfully retrieved from API.
+2024-11-08 12:30:55,661 - INFO - Extracting weather data...
+2024-11-08 12:30:55,661 - INFO - Extracting weather data...
+2024-11-08 12:30:55,661 - INFO - Location Name : Faridabad
+2024-11-08 12:30:55,661 - INFO - Local Time : 2024-11-08 12:29
+2024-11-08 12:30:55,661 - INFO - Condition : Mist
+2024-11-08 12:30:55,661 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:30:55,662 - INFO - Condition Code : 1030
+2024-11-08 12:30:55,662 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:30:55,662 - INFO - Humidity (%) : 52
+2024-11-08 12:30:55,662 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:30:55,662 - INFO - UV Index : 4.2
+2024-11-08 12:30:55,662 - INFO - Temp Celsius : 29.2
+2024-11-08 12:32:18,013 - INFO - API key successfully loaded.
+2024-11-08 12:32:18,013 - INFO - Starting weather data retrieval process...
+2024-11-08 12:32:18,013 - INFO - Checking internet connection...
+2024-11-08 12:32:18,451 - INFO - Internet connection is available.
+2024-11-08 12:32:18,452 - INFO - Fetching IP address...
+2024-11-08 12:32:19,659 - INFO - Data successfully retrieved from API.
+2024-11-08 12:32:19,659 - INFO - Extracting weather data...
+2024-11-08 12:32:19,660 - INFO - Extracting weather data...
+2024-11-08 12:32:19,660 - INFO - Location Name : Faridabad
+2024-11-08 12:32:19,660 - INFO - Local Time : 2024-11-08 12:29
+2024-11-08 12:32:19,660 - INFO - Condition : Mist
+2024-11-08 12:32:19,660 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:32:19,660 - INFO - Condition Code : 1030
+2024-11-08 12:32:19,660 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:32:19,660 - INFO - Humidity (%) : 52
+2024-11-08 12:32:19,660 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:32:19,660 - INFO - UV Index : 4.2
+2024-11-08 12:32:19,660 - INFO - Temp Celsius : 29.2
+2024-11-08 12:32:39,086 - INFO - API key successfully loaded.
+2024-11-08 12:32:39,086 - INFO - Starting weather data retrieval process...
+2024-11-08 12:32:39,086 - INFO - Checking internet connection...
+2024-11-08 12:32:39,436 - INFO - Internet connection is available.
+2024-11-08 12:32:39,437 - INFO - Fetching IP address...
+2024-11-08 12:32:40,715 - INFO - Data successfully retrieved from API.
+2024-11-08 12:32:40,715 - INFO - Extracting weather data...
+2024-11-08 12:32:40,716 - INFO - Extracting weather data...
+2024-11-08 12:32:40,716 - INFO - Location Name : Faridabad
+2024-11-08 12:32:40,716 - INFO - Local Time : 2024-11-08 12:29
+2024-11-08 12:32:40,716 - INFO - Condition : Mist
+2024-11-08 12:32:40,716 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:32:40,716 - INFO - Condition Code : 1030
+2024-11-08 12:32:40,716 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:32:40,716 - INFO - Humidity (%) : 52
+2024-11-08 12:32:40,717 - INFO - Feels Like (°C) : 27.8
+2024-11-08 12:32:40,717 - INFO - UV Index : 4.2
+2024-11-08 12:32:40,717 - INFO - Temp Celsius : 29.2
+2024-11-08 12:32:58,502 - INFO - API key successfully loaded.
+2024-11-08 12:32:58,502 - INFO - Starting weather data retrieval process...
+2024-11-08 12:32:58,502 - INFO - Checking internet connection...
+2024-11-08 12:32:58,817 - INFO - Internet connection is available.
+2024-11-08 12:32:58,817 - INFO - Fetching IP address...
+2024-11-08 12:33:00,473 - INFO - Data successfully retrieved from API.
+2024-11-08 12:33:00,474 - INFO - Extracting weather data...
+2024-11-08 12:33:00,474 - INFO - Extracting weather data...
+2024-11-08 12:33:00,474 - INFO - Location Name : Faridabad
+2024-11-08 12:33:00,474 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:33:00,474 - INFO - Condition : Mist
+2024-11-08 12:33:00,474 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:33:00,474 - INFO - Condition Code : 1030
+2024-11-08 12:33:00,474 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:33:00,474 - INFO - Humidity (%) : 52
+2024-11-08 12:33:00,474 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:33:00,474 - INFO - UV Index : 4.2
+2024-11-08 12:33:00,475 - INFO - Temp Celsius : 29.1
+2024-11-08 12:33:07,444 - INFO - API key successfully loaded.
+2024-11-08 12:33:07,445 - INFO - Starting weather data retrieval process...
+2024-11-08 12:33:07,445 - INFO - Checking internet connection...
+2024-11-08 12:33:07,827 - INFO - Internet connection is available.
+2024-11-08 12:33:07,828 - INFO - Fetching IP address...
+2024-11-08 12:33:09,012 - INFO - Data successfully retrieved from API.
+2024-11-08 12:33:09,013 - INFO - Extracting weather data...
+2024-11-08 12:33:09,014 - INFO - Extracting weather data...
+2024-11-08 12:33:09,014 - INFO - Location Name : Faridabad
+2024-11-08 12:33:09,014 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:33:09,014 - INFO - Condition : Mist
+2024-11-08 12:33:09,014 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:33:09,014 - INFO - Condition Code : 1030
+2024-11-08 12:33:09,014 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:33:09,014 - INFO - Humidity (%) : 52
+2024-11-08 12:33:09,014 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:33:09,014 - INFO - UV Index : 4.2
+2024-11-08 12:33:09,015 - INFO - Temp Celsius : 29.1
+2024-11-08 12:33:14,676 - INFO - API key successfully loaded.
+2024-11-08 12:33:14,676 - INFO - Starting weather data retrieval process...
+2024-11-08 12:33:14,676 - INFO - Checking internet connection...
+2024-11-08 12:33:15,024 - INFO - Internet connection is available.
+2024-11-08 12:33:15,025 - INFO - Fetching IP address...
+2024-11-08 12:33:16,197 - INFO - Data successfully retrieved from API.
+2024-11-08 12:33:16,198 - INFO - Extracting weather data...
+2024-11-08 12:33:16,199 - INFO - Extracting weather data...
+2024-11-08 12:33:16,199 - INFO - Location Name : Faridabad
+2024-11-08 12:33:16,199 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:33:16,199 - INFO - Condition : Mist
+2024-11-08 12:33:16,199 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:33:16,199 - INFO - Condition Code : 1030
+2024-11-08 12:33:16,200 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:33:16,200 - INFO - Humidity (%) : 52
+2024-11-08 12:33:16,200 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:33:16,200 - INFO - UV Index : 4.2
+2024-11-08 12:33:16,200 - INFO - Temp Celsius : 29.1
+2024-11-08 12:33:43,045 - INFO - API key successfully loaded.
+2024-11-08 12:33:43,045 - INFO - Starting weather data retrieval process...
+2024-11-08 12:33:43,045 - INFO - Checking internet connection...
+2024-11-08 12:33:43,463 - INFO - Internet connection is available.
+2024-11-08 12:33:43,464 - INFO - Fetching IP address...
+2024-11-08 12:33:44,691 - INFO - Data successfully retrieved from API.
+2024-11-08 12:33:44,691 - INFO - Extracting weather data...
+2024-11-08 12:33:44,692 - INFO - Extracting weather data...
+2024-11-08 12:33:44,692 - INFO - Location Name : Faridabad
+2024-11-08 12:33:44,692 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:33:44,692 - INFO - Condition : Mist
+2024-11-08 12:33:44,692 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:33:44,692 - INFO - Condition Code : 1030
+2024-11-08 12:33:44,692 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:33:44,692 - INFO - Humidity (%) : 52
+2024-11-08 12:33:44,693 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:33:44,693 - INFO - UV Index : 4.2
+2024-11-08 12:33:44,693 - INFO - Temp Celsius : 29.1
+2024-11-08 12:34:19,932 - INFO - API key successfully loaded.
+2024-11-08 12:34:19,932 - INFO - Starting weather data retrieval process...
+2024-11-08 12:34:19,932 - INFO - Checking internet connection...
+2024-11-08 12:34:20,523 - INFO - Internet connection is available.
+2024-11-08 12:34:20,524 - INFO - Fetching IP address...
+2024-11-08 12:34:21,792 - INFO - Data successfully retrieved from API.
+2024-11-08 12:34:21,793 - INFO - Extracting weather data...
+2024-11-08 12:34:21,793 - INFO - Extracting weather data...
+2024-11-08 12:34:21,793 - INFO - Location Name : Faridabad
+2024-11-08 12:34:21,793 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:34:21,794 - INFO - Condition : Mist
+2024-11-08 12:34:21,794 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:34:21,794 - INFO - Condition Code : 1030
+2024-11-08 12:34:21,794 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:34:21,794 - INFO - Humidity (%) : 52
+2024-11-08 12:34:21,794 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:34:21,794 - INFO - UV Index : 4.2
+2024-11-08 12:34:21,794 - INFO - Temp Celsius : 29.1
+2024-11-08 12:34:44,786 - INFO - API key successfully loaded.
+2024-11-08 12:34:44,787 - INFO - Starting weather data retrieval process...
+2024-11-08 12:34:44,787 - INFO - Checking internet connection...
+2024-11-08 12:34:45,176 - INFO - Internet connection is available.
+2024-11-08 12:34:45,177 - INFO - Fetching IP address...
+2024-11-08 12:34:46,358 - INFO - Data successfully retrieved from API.
+2024-11-08 12:34:46,358 - INFO - Extracting weather data...
+2024-11-08 12:34:46,359 - INFO - Extracting weather data...
+2024-11-08 12:34:46,359 - INFO - Location Name : Faridabad
+2024-11-08 12:34:46,359 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:34:46,359 - INFO - Condition : Mist
+2024-11-08 12:34:46,359 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:34:46,359 - INFO - Condition Code : 1030
+2024-11-08 12:34:46,359 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:34:46,360 - INFO - Humidity (%) : 52
+2024-11-08 12:34:46,360 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:34:46,360 - INFO - UV Index : 4.2
+2024-11-08 12:34:46,360 - INFO - Temp Celsius : 29.1
+2024-11-08 12:34:56,289 - INFO - API key successfully loaded.
+2024-11-08 12:34:56,290 - INFO - Starting weather data retrieval process...
+2024-11-08 12:34:56,290 - INFO - Checking internet connection...
+2024-11-08 12:34:56,985 - INFO - Internet connection is available.
+2024-11-08 12:34:56,985 - INFO - Fetching IP address...
+2024-11-08 12:34:58,325 - INFO - Data successfully retrieved from API.
+2024-11-08 12:34:58,325 - INFO - Extracting weather data...
+2024-11-08 12:34:58,326 - INFO - Extracting weather data...
+2024-11-08 12:34:58,326 - INFO - Location Name : Faridabad
+2024-11-08 12:34:58,326 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:34:58,326 - INFO - Condition : Mist
+2024-11-08 12:34:58,326 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:34:58,326 - INFO - Condition Code : 1030
+2024-11-08 12:34:58,326 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:34:58,327 - INFO - Humidity (%) : 52
+2024-11-08 12:34:58,327 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:34:58,327 - INFO - UV Index : 4.2
+2024-11-08 12:34:58,327 - INFO - Temp Celsius : 29.1
+2024-11-08 12:35:17,981 - INFO - API key successfully loaded.
+2024-11-08 12:35:17,981 - INFO - Starting weather data retrieval process...
+2024-11-08 12:35:17,981 - INFO - Checking internet connection...
+2024-11-08 12:35:18,265 - INFO - Internet connection is available.
+2024-11-08 12:35:18,266 - INFO - Fetching IP address...
+2024-11-08 12:35:19,413 - INFO - Data successfully retrieved from API.
+2024-11-08 12:35:19,414 - INFO - Extracting weather data...
+2024-11-08 12:35:19,414 - INFO - Extracting weather data...
+2024-11-08 12:35:19,414 - INFO - Location Name : Faridabad
+2024-11-08 12:35:19,414 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:35:19,414 - INFO - Condition : Mist
+2024-11-08 12:35:19,414 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:35:19,414 - INFO - Condition Code : 1030
+2024-11-08 12:35:19,414 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:35:19,415 - INFO - Humidity (%) : 52
+2024-11-08 12:35:19,415 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:35:19,415 - INFO - UV Index : 4.2
+2024-11-08 12:35:19,415 - INFO - Temp Celsius : 29.1
+2024-11-08 12:35:28,447 - INFO - API key successfully loaded.
+2024-11-08 12:35:28,447 - INFO - Starting weather data retrieval process...
+2024-11-08 12:35:28,447 - INFO - Checking internet connection...
+2024-11-08 12:35:28,912 - INFO - Internet connection is available.
+2024-11-08 12:35:28,913 - INFO - Fetching IP address...
+2024-11-08 12:35:30,073 - INFO - Data successfully retrieved from API.
+2024-11-08 12:35:30,074 - INFO - Extracting weather data...
+2024-11-08 12:35:30,074 - INFO - Extracting weather data...
+2024-11-08 12:35:30,074 - INFO - Location Name : Faridabad
+2024-11-08 12:35:30,074 - INFO - Local Time : 2024-11-08 12:32
+2024-11-08 12:35:30,074 - INFO - Condition : Mist
+2024-11-08 12:35:30,074 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 12:35:30,074 - INFO - Condition Code : 1030
+2024-11-08 12:35:30,074 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 12:35:30,074 - INFO - Humidity (%) : 52
+2024-11-08 12:35:30,075 - INFO - Feels Like (°C) : 27.7
+2024-11-08 12:35:30,075 - INFO - UV Index : 4.2
+2024-11-08 12:35:30,075 - INFO - Temp Celsius : 29.1
+2024-11-08 13:35:51,373 - INFO - API key successfully loaded.
+2024-11-08 13:35:51,374 - INFO - Starting weather data retrieval process...
+2024-11-08 13:35:51,374 - INFO - Checking internet connection...
+2024-11-08 13:35:52,017 - INFO - Internet connection is available.
+2024-11-08 13:35:52,018 - INFO - Fetching IP address...
+2024-11-08 13:35:53,337 - INFO - Data successfully retrieved from API.
+2024-11-08 13:35:53,338 - INFO - Extracting weather data...
+2024-11-08 13:35:53,338 - INFO - Extracting weather data...
+2024-11-08 13:35:53,338 - INFO - Location Name : Faridabad
+2024-11-08 13:35:53,338 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:35:53,338 - INFO - Condition : Mist
+2024-11-08 13:35:53,338 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:35:53,338 - INFO - Condition Code : 1030
+2024-11-08 13:35:53,338 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:35:53,338 - INFO - Humidity (%) : 46
+2024-11-08 13:35:53,338 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:35:53,338 - INFO - UV Index : 3.6
+2024-11-08 13:35:53,338 - INFO - Temp Celsius : 30.2
+2024-11-08 13:36:48,252 - INFO - API key successfully loaded.
+2024-11-08 13:36:48,253 - INFO - Starting weather data retrieval process...
+2024-11-08 13:36:48,253 - INFO - Checking internet connection...
+2024-11-08 13:36:48,563 - INFO - Internet connection is available.
+2024-11-08 13:36:48,563 - INFO - Fetching IP address...
+2024-11-08 13:36:49,721 - INFO - Data successfully retrieved from API.
+2024-11-08 13:36:49,722 - INFO - Extracting weather data...
+2024-11-08 13:36:49,722 - INFO - Extracting weather data...
+2024-11-08 13:36:49,722 - INFO - Location Name : Faridabad
+2024-11-08 13:36:49,722 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:36:49,722 - INFO - Condition : Mist
+2024-11-08 13:36:49,723 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:36:49,723 - INFO - Condition Code : 1030
+2024-11-08 13:36:49,723 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:36:49,723 - INFO - Humidity (%) : 46
+2024-11-08 13:36:49,723 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:36:49,723 - INFO - UV Index : 3.6
+2024-11-08 13:36:49,723 - INFO - Temp Celsius : 30.2
+2024-11-08 13:37:21,547 - INFO - API key successfully loaded.
+2024-11-08 13:37:21,548 - INFO - Starting weather data retrieval process...
+2024-11-08 13:37:21,548 - INFO - Checking internet connection...
+2024-11-08 13:37:21,823 - INFO - Internet connection is available.
+2024-11-08 13:37:21,824 - INFO - Fetching IP address...
+2024-11-08 13:37:22,959 - INFO - Data successfully retrieved from API.
+2024-11-08 13:37:22,960 - INFO - Extracting weather data...
+2024-11-08 13:37:22,960 - INFO - Extracting weather data...
+2024-11-08 13:37:22,960 - INFO - Location Name : Faridabad
+2024-11-08 13:37:22,960 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:37:22,960 - INFO - Condition : Mist
+2024-11-08 13:37:22,960 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:37:22,960 - INFO - Condition Code : 1030
+2024-11-08 13:37:22,960 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:37:22,960 - INFO - Humidity (%) : 46
+2024-11-08 13:37:22,960 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:37:22,960 - INFO - UV Index : 3.6
+2024-11-08 13:37:22,960 - INFO - Temp Celsius : 30.2
+2024-11-08 13:37:33,455 - INFO - API key successfully loaded.
+2024-11-08 13:37:33,455 - INFO - Starting weather data retrieval process...
+2024-11-08 13:37:33,455 - INFO - Checking internet connection...
+2024-11-08 13:37:34,106 - INFO - Internet connection is available.
+2024-11-08 13:37:34,108 - INFO - Fetching IP address...
+2024-11-08 13:37:35,454 - INFO - Data successfully retrieved from API.
+2024-11-08 13:37:35,455 - INFO - Extracting weather data...
+2024-11-08 13:37:35,455 - INFO - Extracting weather data...
+2024-11-08 13:37:35,455 - INFO - Location Name : Faridabad
+2024-11-08 13:37:35,455 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:37:35,456 - INFO - Condition : Mist
+2024-11-08 13:37:35,456 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:37:35,456 - INFO - Condition Code : 1030
+2024-11-08 13:37:35,456 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:37:35,456 - INFO - Humidity (%) : 46
+2024-11-08 13:37:35,456 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:37:35,459 - INFO - UV Index : 3.6
+2024-11-08 13:37:35,459 - INFO - Temp Celsius : 30.2
+2024-11-08 13:37:55,685 - INFO - API key successfully loaded.
+2024-11-08 13:37:55,685 - INFO - Starting weather data retrieval process...
+2024-11-08 13:37:55,686 - INFO - Checking internet connection...
+2024-11-08 13:37:56,273 - INFO - Internet connection is available.
+2024-11-08 13:37:56,273 - INFO - Fetching IP address...
+2024-11-08 13:37:57,743 - INFO - Data successfully retrieved from API.
+2024-11-08 13:37:57,743 - INFO - Extracting weather data...
+2024-11-08 13:37:57,743 - INFO - Extracting weather data...
+2024-11-08 13:37:57,743 - INFO - Location Name : Faridabad
+2024-11-08 13:37:57,743 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:37:57,744 - INFO - Condition : Mist
+2024-11-08 13:37:57,744 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:37:57,744 - INFO - Condition Code : 1030
+2024-11-08 13:37:57,744 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:37:57,744 - INFO - Humidity (%) : 46
+2024-11-08 13:37:57,744 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:37:57,744 - INFO - UV Index : 3.6
+2024-11-08 13:37:57,744 - INFO - Temp Celsius : 30.2
+2024-11-08 13:38:38,230 - INFO - API key successfully loaded.
+2024-11-08 13:38:38,230 - INFO - Starting weather data retrieval process...
+2024-11-08 13:38:38,230 - INFO - Checking internet connection...
+2024-11-08 13:38:38,585 - INFO - Internet connection is available.
+2024-11-08 13:38:38,587 - INFO - Fetching IP address...
+2024-11-08 13:38:39,841 - INFO - Data successfully retrieved from API.
+2024-11-08 13:38:39,841 - INFO - Extracting weather data...
+2024-11-08 13:38:39,841 - INFO - Extracting weather data...
+2024-11-08 13:38:39,841 - INFO - Location Name : Faridabad
+2024-11-08 13:38:39,841 - INFO - Local Time : 2024-11-08 13:35
+2024-11-08 13:38:39,841 - INFO - Condition : Mist
+2024-11-08 13:38:39,842 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:38:39,842 - INFO - Condition Code : 1030
+2024-11-08 13:38:39,842 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:38:39,842 - INFO - Humidity (%) : 46
+2024-11-08 13:38:39,842 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:38:39,842 - INFO - UV Index : 3.6
+2024-11-08 13:38:39,842 - INFO - Temp Celsius : 30.2
+2024-11-08 13:39:04,570 - INFO - API key successfully loaded.
+2024-11-08 13:39:04,570 - INFO - Starting weather data retrieval process...
+2024-11-08 13:39:04,570 - INFO - Checking internet connection...
+2024-11-08 13:39:04,902 - INFO - Internet connection is available.
+2024-11-08 13:39:04,903 - INFO - Fetching IP address...
+2024-11-08 13:39:06,214 - INFO - Data successfully retrieved from API.
+2024-11-08 13:39:06,214 - INFO - Extracting weather data...
+2024-11-08 13:39:06,214 - INFO - Extracting weather data...
+2024-11-08 13:39:06,215 - INFO - Location Name : Faridabad
+2024-11-08 13:39:06,215 - INFO - Local Time : 2024-11-08 13:39
+2024-11-08 13:39:06,215 - INFO - Condition : Mist
+2024-11-08 13:39:06,215 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:39:06,215 - INFO - Condition Code : 1030
+2024-11-08 13:39:06,215 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:39:06,215 - INFO - Humidity (%) : 46
+2024-11-08 13:39:06,215 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:39:06,215 - INFO - UV Index : 3.6
+2024-11-08 13:39:06,215 - INFO - Temp Celsius : 30.2
+2024-11-08 13:41:23,375 - INFO - API key successfully loaded.
+2024-11-08 13:41:23,376 - INFO - Starting weather data retrieval process...
+2024-11-08 13:41:23,376 - INFO - Checking internet connection...
+2024-11-08 13:41:23,656 - INFO - Internet connection is available.
+2024-11-08 13:41:23,657 - INFO - Fetching IP address...
+2024-11-08 13:41:24,957 - INFO - Data successfully retrieved from API.
+2024-11-08 13:41:24,958 - INFO - Extracting weather data...
+2024-11-08 13:41:24,958 - INFO - Extracting weather data...
+2024-11-08 13:41:24,958 - INFO - Location Name : Faridabad
+2024-11-08 13:41:24,958 - INFO - Local Time : 2024-11-08 13:39
+2024-11-08 13:41:24,958 - INFO - Condition : Mist
+2024-11-08 13:41:24,958 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:41:24,958 - INFO - Condition Code : 1030
+2024-11-08 13:41:24,959 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:41:24,959 - INFO - Humidity (%) : 46
+2024-11-08 13:41:24,959 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:41:24,959 - INFO - UV Index : 3.6
+2024-11-08 13:41:24,959 - INFO - Temp Celsius : 30.2
+2024-11-08 13:44:19,480 - INFO - API key successfully loaded.
+2024-11-08 13:44:19,480 - INFO - Starting weather data retrieval process...
+2024-11-08 13:44:19,480 - INFO - Checking internet connection...
+2024-11-08 13:44:19,878 - INFO - Internet connection is available.
+2024-11-08 13:44:19,879 - INFO - Fetching IP address...
+2024-11-08 13:44:21,243 - INFO - Data successfully retrieved from API.
+2024-11-08 13:44:21,244 - INFO - Extracting weather data...
+2024-11-08 13:44:21,244 - INFO - Extracting weather data...
+2024-11-08 13:44:21,244 - INFO - Location Name : Faridabad
+2024-11-08 13:44:21,244 - INFO - Local Time : 2024-11-08 13:44
+2024-11-08 13:44:21,244 - INFO - Condition : Mist
+2024-11-08 13:44:21,244 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:44:21,244 - INFO - Condition Code : 1030
+2024-11-08 13:44:21,245 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:44:21,245 - INFO - Humidity (%) : 46
+2024-11-08 13:44:21,245 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:44:21,245 - INFO - UV Index : 3.6
+2024-11-08 13:44:21,245 - INFO - Temp Celsius : 30.2
+2024-11-08 13:45:19,298 - INFO - API key successfully loaded.
+2024-11-08 13:45:19,299 - INFO - Starting weather data retrieval process...
+2024-11-08 13:45:19,299 - INFO - Checking internet connection...
+2024-11-08 13:45:19,655 - INFO - Internet connection is available.
+2024-11-08 13:45:19,655 - INFO - Fetching IP address...
+2024-11-08 13:45:22,355 - ERROR - Error fetching IP address: Expecting value: line 1 column 1 (char 0)
+2024-11-08 13:45:22,805 - INFO - Data successfully retrieved from API.
+2024-11-08 13:45:22,805 - INFO - Extracting weather data...
+2024-11-08 13:45:22,805 - INFO - Extracting weather data...
+2024-11-08 13:45:22,806 - INFO - Location Name : Nonette
+2024-11-08 13:45:22,806 - INFO - Local Time : 2024-11-08 09:15
+2024-11-08 13:45:22,806 - INFO - Condition : Sunny
+2024-11-08 13:45:22,806 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/113.png
+2024-11-08 13:45:22,806 - INFO - Condition Code : 1000
+2024-11-08 13:45:22,806 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 13:45:22,806 - INFO - Humidity (%) : 78
+2024-11-08 13:45:22,806 - INFO - Feels Like (°C) : 9.0
+2024-11-08 13:45:22,806 - INFO - UV Index : 0.2
+2024-11-08 13:45:22,807 - INFO - Temp Celsius : 9.6
+2024-11-08 13:45:46,979 - INFO - API key successfully loaded.
+2024-11-08 13:45:46,980 - INFO - Starting weather data retrieval process...
+2024-11-08 13:45:46,980 - INFO - Checking internet connection...
+2024-11-08 13:45:47,394 - INFO - Internet connection is available.
+2024-11-08 13:45:47,395 - INFO - Fetching IP address...
+2024-11-08 13:45:48,567 - INFO - Data successfully retrieved from API.
+2024-11-08 13:45:48,568 - INFO - Extracting weather data...
+2024-11-08 13:45:48,568 - INFO - Extracting weather data...
+2024-11-08 13:45:48,568 - INFO - Location Name : Faridabad
+2024-11-08 13:45:48,569 - INFO - Local Time : 2024-11-08 13:44
+2024-11-08 13:45:48,569 - INFO - Condition : Mist
+2024-11-08 13:45:48,569 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:45:48,569 - INFO - Condition Code : 1030
+2024-11-08 13:45:48,569 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:45:48,569 - INFO - Humidity (%) : 46
+2024-11-08 13:45:48,569 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:45:48,569 - INFO - UV Index : 3.6
+2024-11-08 13:45:48,570 - INFO - Temp Celsius : 30.2
+2024-11-08 13:46:59,961 - INFO - API key successfully loaded.
+2024-11-08 13:46:59,961 - INFO - Starting weather data retrieval process...
+2024-11-08 13:46:59,961 - INFO - Checking internet connection...
+2024-11-08 13:47:00,292 - INFO - Internet connection is available.
+2024-11-08 13:47:00,293 - INFO - Fetching IP address...
+2024-11-08 13:47:01,531 - INFO - Data successfully retrieved from API.
+2024-11-08 13:47:01,532 - INFO - Extracting weather data...
+2024-11-08 13:47:01,532 - INFO - Extracting weather data...
+2024-11-08 13:47:01,532 - INFO - Location Name : Faridabad
+2024-11-08 13:47:01,532 - INFO - Local Time : 2024-11-08 13:44
+2024-11-08 13:47:01,532 - INFO - Condition : Mist
+2024-11-08 13:47:01,533 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:47:01,533 - INFO - Condition Code : 1030
+2024-11-08 13:47:01,533 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:47:01,533 - INFO - Humidity (%) : 46
+2024-11-08 13:47:01,533 - INFO - Feels Like (°C) : 28.5
+2024-11-08 13:47:01,533 - INFO - UV Index : 3.6
+2024-11-08 13:47:01,534 - INFO - Temp Celsius : 30.2
+2024-11-08 13:47:42,370 - INFO - API key successfully loaded.
+2024-11-08 13:47:42,370 - INFO - Starting weather data retrieval process...
+2024-11-08 13:47:42,370 - INFO - Checking internet connection...
+2024-11-08 13:47:42,765 - INFO - Internet connection is available.
+2024-11-08 13:47:42,765 - INFO - Fetching IP address...
+2024-11-08 13:47:44,116 - INFO - Data successfully retrieved from API.
+2024-11-08 13:47:44,117 - INFO - Extracting weather data...
+2024-11-08 13:47:44,117 - INFO - Extracting weather data...
+2024-11-08 13:47:44,118 - INFO - Location Name : Faridabad
+2024-11-08 13:47:44,118 - INFO - Local Time : 2024-11-08 13:47
+2024-11-08 13:47:44,118 - INFO - Condition : Mist
+2024-11-08 13:47:44,118 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:47:44,118 - INFO - Condition Code : 1030
+2024-11-08 13:47:44,118 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:47:44,118 - INFO - Humidity (%) : 49
+2024-11-08 13:47:44,118 - INFO - Feels Like (°C) : 28.6
+2024-11-08 13:47:44,118 - INFO - UV Index : 3.6
+2024-11-08 13:47:44,119 - INFO - Temp Celsius : 30.3
+2024-11-08 13:48:40,194 - INFO - API key successfully loaded.
+2024-11-08 13:48:40,194 - INFO - Starting weather data retrieval process...
+2024-11-08 13:48:40,194 - INFO - Checking internet connection...
+2024-11-08 13:48:40,839 - INFO - Internet connection is available.
+2024-11-08 13:48:40,840 - INFO - Fetching IP address...
+2024-11-08 13:48:42,040 - INFO - Data successfully retrieved from API.
+2024-11-08 13:48:42,041 - INFO - Extracting weather data...
+2024-11-08 13:48:42,041 - INFO - Extracting weather data...
+2024-11-08 13:48:42,042 - INFO - Location Name : Faridabad
+2024-11-08 13:48:42,042 - INFO - Local Time : 2024-11-08 13:47
+2024-11-08 13:48:42,042 - INFO - Condition : Mist
+2024-11-08 13:48:42,043 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:48:42,043 - INFO - Condition Code : 1030
+2024-11-08 13:48:42,043 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:48:42,043 - INFO - Humidity (%) : 49
+2024-11-08 13:48:42,061 - INFO - Feels Like (°C) : 28.6
+2024-11-08 13:48:42,062 - INFO - UV Index : 3.6
+2024-11-08 13:48:42,062 - INFO - Temp Celsius : 30.3
+2024-11-08 13:51:34,120 - INFO - API key successfully loaded.
+2024-11-08 13:51:34,121 - INFO - Starting weather data retrieval process...
+2024-11-08 13:51:34,121 - INFO - Checking internet connection...
+2024-11-08 13:51:34,458 - INFO - Internet connection is available.
+2024-11-08 13:51:34,459 - INFO - Fetching IP address...
+2024-11-08 13:51:35,784 - INFO - Data successfully retrieved from API.
+2024-11-08 13:51:35,784 - INFO - Extracting weather data...
+2024-11-08 13:51:35,785 - INFO - Extracting weather data...
+2024-11-08 13:51:35,785 - INFO - Location Name : Faridabad
+2024-11-08 13:51:35,785 - INFO - Local Time : 2024-11-08 13:51
+2024-11-08 13:51:35,785 - INFO - Condition : Mist
+2024-11-08 13:51:35,785 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/143.png
+2024-11-08 13:51:35,786 - INFO - Condition Code : 1030
+2024-11-08 13:51:35,786 - INFO - Wind Speed (kph) : 3.6
+2024-11-08 13:51:35,786 - INFO - Humidity (%) : 49
+2024-11-08 13:51:35,787 - INFO - Feels Like (°C) : 28.6
+2024-11-08 13:51:35,787 - INFO - UV Index : 3.6
+2024-11-08 13:51:35,787 - INFO - Temp Celsius : 30.3
+2024-11-08 18:10:09,020 - INFO - API key successfully loaded.
+2024-11-08 18:10:09,020 - INFO - Starting weather data retrieval process...
+2024-11-08 18:10:09,020 - INFO - Checking internet connection...
+2024-11-08 18:10:09,689 - INFO - Internet connection is available.
+2024-11-08 18:10:09,691 - INFO - Fetching IP address...
+2024-11-08 18:10:12,063 - INFO - Data successfully retrieved from API.
+2024-11-08 18:10:12,064 - INFO - Extracting weather data...
+2024-11-08 18:10:12,064 - INFO - Extracting weather data...
+2024-11-08 18:10:12,064 - INFO - Location Name : Faridabad
+2024-11-08 18:10:12,064 - INFO - Local Time : 2024-11-08 18:10
+2024-11-08 18:10:12,064 - INFO - Condition : Mist
+2024-11-08 18:10:12,064 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:10:12,065 - INFO - Condition Code : 1030
+2024-11-08 18:10:12,065 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:10:12,065 - INFO - Humidity (%) : 54
+2024-11-08 18:10:12,065 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:10:12,065 - INFO - UV Index : 0.0
+2024-11-08 18:10:12,065 - INFO - Temp Celsius : 27.3
+2024-11-08 18:12:32,952 - INFO - API key successfully loaded.
+2024-11-08 18:12:32,952 - INFO - Starting weather data retrieval process...
+2024-11-08 18:12:32,952 - INFO - Checking internet connection...
+2024-11-08 18:12:33,725 - INFO - Internet connection is available.
+2024-11-08 18:12:33,727 - INFO - Fetching IP address...
+2024-11-08 18:12:34,978 - INFO - Data successfully retrieved from API.
+2024-11-08 18:12:34,979 - INFO - Extracting weather data...
+2024-11-08 18:12:34,979 - INFO - Extracting weather data...
+2024-11-08 18:12:34,980 - INFO - Location Name : Faridabad
+2024-11-08 18:12:34,980 - INFO - Local Time : 2024-11-08 18:10
+2024-11-08 18:12:34,980 - INFO - Condition : Mist
+2024-11-08 18:12:34,980 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:12:34,980 - INFO - Condition Code : 1030
+2024-11-08 18:12:34,980 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:12:34,980 - INFO - Humidity (%) : 54
+2024-11-08 18:12:34,980 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:12:34,981 - INFO - UV Index : 0.0
+2024-11-08 18:12:34,981 - INFO - Temp Celsius : 27.3
+2024-11-08 18:15:01,898 - INFO - API key successfully loaded.
+2024-11-08 18:15:01,899 - INFO - Starting weather data retrieval process...
+2024-11-08 18:15:01,899 - INFO - Checking internet connection...
+2024-11-08 18:15:02,722 - INFO - Internet connection is available.
+2024-11-08 18:15:02,723 - INFO - Fetching IP address...
+2024-11-08 18:15:04,500 - INFO - Data successfully retrieved from API.
+2024-11-08 18:15:04,501 - INFO - Extracting weather data...
+2024-11-08 18:15:04,501 - INFO - Extracting weather data...
+2024-11-08 18:15:04,501 - INFO - Location Name : Faridabad
+2024-11-08 18:15:04,501 - INFO - Local Time : 2024-11-08 18:14
+2024-11-08 18:15:04,501 - INFO - Condition : Mist
+2024-11-08 18:15:04,502 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:15:04,502 - INFO - Condition Code : 1030
+2024-11-08 18:15:04,502 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:15:04,502 - INFO - Humidity (%) : 54
+2024-11-08 18:15:04,502 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:15:04,502 - INFO - UV Index : 0.0
+2024-11-08 18:15:04,502 - INFO - Temp Celsius : 27.3
+2024-11-08 18:15:15,759 - INFO - API key successfully loaded.
+2024-11-08 18:15:15,760 - INFO - Starting weather data retrieval process...
+2024-11-08 18:15:15,760 - INFO - Checking internet connection...
+2024-11-08 18:15:16,068 - INFO - Internet connection is available.
+2024-11-08 18:15:16,069 - INFO - Fetching IP address...
+2024-11-08 18:15:17,205 - INFO - Data successfully retrieved from API.
+2024-11-08 18:15:17,206 - INFO - Extracting weather data...
+2024-11-08 18:15:17,206 - INFO - Extracting weather data...
+2024-11-08 18:15:17,207 - INFO - Location Name : Faridabad
+2024-11-08 18:15:17,207 - INFO - Local Time : 2024-11-08 18:14
+2024-11-08 18:15:17,207 - INFO - Condition : Mist
+2024-11-08 18:15:17,207 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:15:17,207 - INFO - Condition Code : 1030
+2024-11-08 18:15:17,207 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:15:17,207 - INFO - Humidity (%) : 54
+2024-11-08 18:15:17,207 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:15:17,207 - INFO - UV Index : 0.0
+2024-11-08 18:15:17,207 - INFO - Temp Celsius : 27.3
+2024-11-08 18:16:58,495 - INFO - API key successfully loaded.
+2024-11-08 18:16:58,495 - INFO - Starting weather data retrieval process...
+2024-11-08 18:16:58,495 - INFO - Checking internet connection...
+2024-11-08 18:16:59,044 - INFO - Internet connection is available.
+2024-11-08 18:16:59,045 - INFO - Fetching IP address...
+2024-11-08 18:17:00,268 - INFO - Data successfully retrieved from API.
+2024-11-08 18:17:00,269 - INFO - Extracting weather data...
+2024-11-08 18:17:00,270 - INFO - Extracting weather data...
+2024-11-08 18:17:00,270 - INFO - Location Name : Faridabad
+2024-11-08 18:17:00,270 - INFO - Local Time : 2024-11-08 18:14
+2024-11-08 18:17:00,270 - INFO - Condition : Mist
+2024-11-08 18:17:00,270 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:17:00,271 - INFO - Condition Code : 1030
+2024-11-08 18:17:00,271 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:17:00,271 - INFO - Humidity (%) : 54
+2024-11-08 18:17:00,271 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:17:00,271 - INFO - UV Index : 0.0
+2024-11-08 18:17:00,271 - INFO - Temp Celsius : 27.3
+2024-11-08 18:17:40,593 - INFO - API key successfully loaded.
+2024-11-08 18:17:40,593 - INFO - Starting weather data retrieval process...
+2024-11-08 18:17:40,593 - INFO - Checking internet connection...
+2024-11-08 18:17:40,893 - INFO - Internet connection is available.
+2024-11-08 18:17:40,894 - INFO - Fetching IP address...
+2024-11-08 18:17:42,371 - INFO - Data successfully retrieved from API.
+2024-11-08 18:17:42,372 - INFO - Extracting weather data...
+2024-11-08 18:17:42,372 - INFO - Extracting weather data...
+2024-11-08 18:17:42,372 - INFO - Location Name : Faridabad
+2024-11-08 18:17:42,372 - INFO - Local Time : 2024-11-08 18:14
+2024-11-08 18:17:42,372 - INFO - Condition : Mist
+2024-11-08 18:17:42,373 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:17:42,373 - INFO - Condition Code : 1030
+2024-11-08 18:17:42,373 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:17:42,373 - INFO - Humidity (%) : 54
+2024-11-08 18:17:42,373 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:17:42,373 - INFO - UV Index : 0.0
+2024-11-08 18:17:42,373 - INFO - Temp Celsius : 27.3
+2024-11-08 18:18:48,908 - INFO - API key successfully loaded.
+2024-11-08 18:18:48,909 - INFO - Starting weather data retrieval process...
+2024-11-08 18:18:48,909 - INFO - Checking internet connection...
+2024-11-08 18:18:49,192 - INFO - Internet connection is available.
+2024-11-08 18:18:49,193 - INFO - Fetching IP address...
+2024-11-08 18:18:50,759 - INFO - Data successfully retrieved from API.
+2024-11-08 18:18:50,760 - INFO - Extracting weather data...
+2024-11-08 18:18:50,760 - INFO - Extracting weather data...
+2024-11-08 18:18:50,761 - INFO - Location Name : Faridabad
+2024-11-08 18:18:50,761 - INFO - Local Time : 2024-11-08 18:18
+2024-11-08 18:18:50,761 - INFO - Condition : Mist
+2024-11-08 18:18:50,761 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:18:50,761 - INFO - Condition Code : 1030
+2024-11-08 18:18:50,761 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:18:50,761 - INFO - Humidity (%) : 58
+2024-11-08 18:18:50,761 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:18:50,761 - INFO - UV Index : 0.0
+2024-11-08 18:18:50,761 - INFO - Temp Celsius : 27.3
+2024-11-08 18:19:42,546 - INFO - API key successfully loaded.
+2024-11-08 18:19:42,546 - INFO - Starting weather data retrieval process...
+2024-11-08 18:19:42,546 - INFO - Checking internet connection...
+2024-11-08 18:19:43,064 - INFO - Internet connection is available.
+2024-11-08 18:19:43,065 - INFO - Fetching IP address...
+2024-11-08 18:19:44,558 - INFO - Data successfully retrieved from API.
+2024-11-08 18:19:44,559 - INFO - Extracting weather data...
+2024-11-08 18:19:44,559 - INFO - Extracting weather data...
+2024-11-08 18:19:44,560 - INFO - Location Name : Faridabad
+2024-11-08 18:19:44,560 - INFO - Local Time : 2024-11-08 18:18
+2024-11-08 18:19:44,560 - INFO - Condition : Mist
+2024-11-08 18:19:44,560 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:19:44,560 - INFO - Condition Code : 1030
+2024-11-08 18:19:44,560 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:19:44,560 - INFO - Humidity (%) : 58
+2024-11-08 18:19:44,561 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:19:44,561 - INFO - UV Index : 0.0
+2024-11-08 18:19:44,561 - INFO - Temp Celsius : 27.3
+2024-11-08 18:20:29,679 - INFO - API key successfully loaded.
+2024-11-08 18:20:29,679 - INFO - Starting weather data retrieval process...
+2024-11-08 18:20:29,679 - INFO - Checking internet connection...
+2024-11-08 18:20:30,472 - INFO - Internet connection is available.
+2024-11-08 18:20:30,473 - INFO - Fetching IP address...
+2024-11-08 18:20:32,210 - INFO - Data successfully retrieved from API.
+2024-11-08 18:20:32,211 - INFO - Extracting weather data...
+2024-11-08 18:20:32,211 - INFO - Extracting weather data...
+2024-11-08 18:20:32,211 - INFO - Location Name : Faridabad
+2024-11-08 18:20:32,211 - INFO - Local Time : 2024-11-08 18:18
+2024-11-08 18:20:32,211 - INFO - Condition : Mist
+2024-11-08 18:20:32,211 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:20:32,211 - INFO - Condition Code : 1030
+2024-11-08 18:20:32,211 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:20:32,212 - INFO - Humidity (%) : 58
+2024-11-08 18:20:32,212 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:20:32,212 - INFO - UV Index : 0.0
+2024-11-08 18:20:32,212 - INFO - Temp Celsius : 27.3
+2024-11-08 18:21:04,382 - INFO - API key successfully loaded.
+2024-11-08 18:21:04,382 - INFO - Starting weather data retrieval process...
+2024-11-08 18:21:04,382 - INFO - Checking internet connection...
+2024-11-08 18:21:04,971 - INFO - Internet connection is available.
+2024-11-08 18:21:04,972 - INFO - Fetching IP address...
+2024-11-08 18:21:06,422 - INFO - Data successfully retrieved from API.
+2024-11-08 18:21:06,422 - INFO - Extracting weather data...
+2024-11-08 18:21:06,422 - INFO - Extracting weather data...
+2024-11-08 18:21:06,422 - INFO - Location Name : Faridabad
+2024-11-08 18:21:06,422 - INFO - Local Time : 2024-11-08 18:18
+2024-11-08 18:21:06,422 - INFO - Condition : Mist
+2024-11-08 18:21:06,422 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:21:06,422 - INFO - Condition Code : 1030
+2024-11-08 18:21:06,422 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:21:06,422 - INFO - Humidity (%) : 58
+2024-11-08 18:21:06,422 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:21:06,422 - INFO - UV Index : 0.0
+2024-11-08 18:21:06,423 - INFO - Temp Celsius : 27.3
+2024-11-08 18:21:17,360 - INFO - Fetching weather data for: agra
+2024-11-08 18:21:17,789 - INFO - Data successfully retrieved from API.
+2024-11-08 18:21:17,790 - INFO - Extracting weather data...
+2024-11-08 18:22:35,658 - INFO - API key successfully loaded.
+2024-11-08 18:22:35,658 - INFO - Starting weather data retrieval process...
+2024-11-08 18:22:35,658 - INFO - Checking internet connection...
+2024-11-08 18:22:36,298 - INFO - Internet connection is available.
+2024-11-08 18:22:36,299 - INFO - Fetching IP address...
+2024-11-08 18:22:37,696 - INFO - Data successfully retrieved from API.
+2024-11-08 18:22:37,697 - INFO - Extracting weather data...
+2024-11-08 18:22:37,698 - INFO - Extracting weather data...
+2024-11-08 18:22:37,698 - INFO - Location Name : Faridabad
+2024-11-08 18:22:37,698 - INFO - Local Time : 2024-11-08 18:22
+2024-11-08 18:22:37,698 - INFO - Condition : Mist
+2024-11-08 18:22:37,698 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:22:37,698 - INFO - Condition Code : 1030
+2024-11-08 18:22:37,699 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:22:37,699 - INFO - Humidity (%) : 58
+2024-11-08 18:22:37,699 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:22:37,699 - INFO - UV Index : 0.0
+2024-11-08 18:22:37,699 - INFO - Temp Celsius : 27.3
+2024-11-08 18:22:52,737 - INFO - Fetching weather data for: agra
+2024-11-08 18:22:53,009 - INFO - Data successfully retrieved from API.
+2024-11-08 18:22:53,010 - INFO - Extracting weather data...
+2024-11-08 18:24:11,303 - INFO - API key successfully loaded.
+2024-11-08 18:24:11,303 - INFO - Starting weather data retrieval process...
+2024-11-08 18:24:11,303 - INFO - Checking internet connection...
+2024-11-08 18:24:12,229 - INFO - Internet connection is available.
+2024-11-08 18:24:12,230 - INFO - Fetching IP address...
+2024-11-08 18:24:14,093 - INFO - Data successfully retrieved from API.
+2024-11-08 18:24:14,094 - INFO - Extracting weather data...
+2024-11-08 18:24:14,094 - INFO - Extracting weather data...
+2024-11-08 18:24:14,094 - INFO - Location Name : Faridabad
+2024-11-08 18:24:14,094 - INFO - Local Time : 2024-11-08 18:22
+2024-11-08 18:24:14,095 - INFO - Condition : Mist
+2024-11-08 18:24:14,095 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:24:14,095 - INFO - Condition Code : 1030
+2024-11-08 18:24:14,095 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:24:14,095 - INFO - Humidity (%) : 58
+2024-11-08 18:24:14,095 - INFO - Feels Like (°C) : 26.2
+2024-11-08 18:24:14,095 - INFO - UV Index : 0.0
+2024-11-08 18:24:14,095 - INFO - Temp Celsius : 27.3
+2024-11-08 18:24:20,589 - INFO - Fetching weather data for: agra
+2024-11-08 18:24:21,048 - INFO - Data successfully retrieved from API.
+2024-11-08 18:24:21,049 - INFO - Extracting weather data...
+2024-11-08 18:36:34,843 - INFO - API key successfully loaded.
+2024-11-08 18:36:34,843 - INFO - Starting weather data retrieval process...
+2024-11-08 18:36:34,843 - INFO - Checking internet connection...
+2024-11-08 18:36:34,864 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002DE91E438C0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 18:36:34,864 - ERROR - Internet connection is not available.
+2024-11-08 18:36:46,750 - INFO - Fetching weather data for: qagra
+2024-11-08 18:36:46,760 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=qagra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DE922E82D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 18:36:46,760 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=qagra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DE922E82D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 18:38:44,385 - INFO - API key successfully loaded.
+2024-11-08 18:38:44,386 - INFO - Starting weather data retrieval process...
+2024-11-08 18:38:44,386 - INFO - Checking internet connection...
+2024-11-08 18:38:45,017 - INFO - Internet connection is available.
+2024-11-08 18:38:45,018 - INFO - Fetching IP address...
+2024-11-08 18:38:46,964 - INFO - Data successfully retrieved from API.
+2024-11-08 18:38:46,965 - INFO - Extracting weather data...
+2024-11-08 18:38:46,965 - INFO - Extracting weather data...
+2024-11-08 18:38:46,966 - INFO - Location Name : Faridabad
+2024-11-08 18:38:46,966 - INFO - Local Time : 2024-11-08 18:38
+2024-11-08 18:38:46,966 - INFO - Condition : Mist
+2024-11-08 18:38:46,966 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:38:46,966 - INFO - Condition Code : 1030
+2024-11-08 18:38:46,966 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:38:46,966 - INFO - Humidity (%) : 58
+2024-11-08 18:38:46,966 - INFO - Feels Like (°C) : 26.1
+2024-11-08 18:38:46,966 - INFO - UV Index : 0.0
+2024-11-08 18:38:46,966 - INFO - Temp Celsius : 27.2
+2024-11-08 18:39:09,758 - INFO - API key successfully loaded.
+2024-11-08 18:39:09,759 - INFO - Starting weather data retrieval process...
+2024-11-08 18:39:09,759 - INFO - Checking internet connection...
+2024-11-08 18:39:09,762 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018039D5F8C0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 18:39:09,762 - ERROR - Internet connection is not available.
+2024-11-08 18:43:01,707 - INFO - API key successfully loaded.
+2024-11-08 18:43:01,707 - INFO - Starting weather data retrieval process...
+2024-11-08 18:43:01,707 - INFO - Checking internet connection...
+2024-11-08 18:43:01,981 - INFO - Internet connection is available.
+2024-11-08 18:43:01,981 - INFO - Fetching IP address...
+2024-11-08 18:43:03,685 - INFO - Data successfully retrieved from API.
+2024-11-08 18:43:03,686 - INFO - Extracting weather data...
+2024-11-08 18:43:03,686 - INFO - Extracting weather data...
+2024-11-08 18:43:03,686 - INFO - Location Name : Faridabad
+2024-11-08 18:43:03,686 - INFO - Local Time : 2024-11-08 18:42
+2024-11-08 18:43:03,687 - INFO - Condition : Mist
+2024-11-08 18:43:03,687 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 18:43:03,687 - INFO - Condition Code : 1030
+2024-11-08 18:43:03,687 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:43:03,687 - INFO - Humidity (%) : 58
+2024-11-08 18:43:03,687 - INFO - Feels Like (°C) : 26.1
+2024-11-08 18:43:03,688 - INFO - UV Index : 0.0
+2024-11-08 18:43:03,688 - INFO - Temp Celsius : 27.2
+2024-11-08 18:51:31,929 - INFO - API key successfully loaded.
+2024-11-08 18:51:31,929 - INFO - Starting weather data retrieval process...
+2024-11-08 18:51:31,930 - INFO - Checking internet connection...
+2024-11-08 18:51:32,620 - INFO - Internet connection is available.
+2024-11-08 18:51:32,621 - INFO - Fetching IP address...
+2024-11-08 18:51:34,667 - INFO - Data successfully retrieved from API.
+2024-11-08 18:51:34,668 - INFO - Extracting weather data...
+2024-11-08 18:51:34,668 - INFO - Extracting weather data...
+2024-11-08 18:51:34,668 - INFO - Location Name : Faridabad
+2024-11-08 18:51:34,668 - INFO - Local Time : 2024-11-08 18:51
+2024-11-08 18:51:34,668 - INFO - Condition : Clear
+2024-11-08 18:51:34,668 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 18:51:34,668 - INFO - Condition Code : 1000
+2024-11-08 18:51:34,668 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:51:34,668 - INFO - Humidity (%) : 28
+2024-11-08 18:51:34,668 - INFO - Feels Like (°C) : 27.3
+2024-11-08 18:51:34,669 - INFO - UV Index : 0.0
+2024-11-08 18:51:34,669 - INFO - Temp Celsius : 28.6
+2024-11-08 18:55:10,775 - INFO - API key successfully loaded.
+2024-11-08 18:55:10,776 - INFO - Starting weather data retrieval process...
+2024-11-08 18:55:10,776 - INFO - Checking internet connection...
+2024-11-08 18:55:11,247 - INFO - Internet connection is available.
+2024-11-08 18:55:11,248 - INFO - Fetching IP address...
+2024-11-08 18:55:13,193 - INFO - Data successfully retrieved from API.
+2024-11-08 18:55:13,194 - INFO - Extracting weather data...
+2024-11-08 18:55:13,195 - INFO - Extracting weather data...
+2024-11-08 18:55:13,195 - INFO - Location Name : Faridabad
+2024-11-08 18:55:13,195 - INFO - Local Time : 2024-11-08 18:55
+2024-11-08 18:55:13,195 - INFO - Condition : Clear
+2024-11-08 18:55:13,195 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 18:55:13,195 - INFO - Condition Code : 1000
+2024-11-08 18:55:13,195 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:55:13,196 - INFO - Humidity (%) : 28
+2024-11-08 18:55:13,196 - INFO - Feels Like (°C) : 27.3
+2024-11-08 18:55:13,196 - INFO - UV Index : 0.0
+2024-11-08 18:55:13,196 - INFO - Temp Celsius : 28.6
+2024-11-08 18:55:51,919 - INFO - API key successfully loaded.
+2024-11-08 18:55:51,919 - INFO - Starting weather data retrieval process...
+2024-11-08 18:55:51,919 - INFO - Checking internet connection...
+2024-11-08 18:55:52,724 - INFO - Internet connection is available.
+2024-11-08 18:55:52,725 - INFO - Fetching IP address...
+2024-11-08 18:55:54,270 - INFO - Data successfully retrieved from API.
+2024-11-08 18:55:54,271 - INFO - Extracting weather data...
+2024-11-08 18:55:54,271 - INFO - Extracting weather data...
+2024-11-08 18:55:54,271 - INFO - Location Name : Faridabad
+2024-11-08 18:55:54,271 - INFO - Local Time : 2024-11-08 18:55
+2024-11-08 18:55:54,271 - INFO - Condition : Clear
+2024-11-08 18:55:54,271 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 18:55:54,271 - INFO - Condition Code : 1000
+2024-11-08 18:55:54,271 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:55:54,271 - INFO - Humidity (%) : 28
+2024-11-08 18:55:54,271 - INFO - Feels Like (°C) : 27.3
+2024-11-08 18:55:54,271 - INFO - UV Index : 0.0
+2024-11-08 18:55:54,271 - INFO - Temp Celsius : 28.6
+2024-11-08 18:57:36,542 - INFO - API key successfully loaded.
+2024-11-08 18:57:36,542 - INFO - Starting weather data retrieval process...
+2024-11-08 18:57:36,542 - INFO - Checking internet connection...
+2024-11-08 18:57:37,373 - INFO - Internet connection is available.
+2024-11-08 18:57:37,374 - INFO - Fetching IP address...
+2024-11-08 18:57:38,912 - INFO - Data successfully retrieved from API.
+2024-11-08 18:57:38,913 - INFO - Extracting weather data...
+2024-11-08 18:57:38,914 - INFO - Extracting weather data...
+2024-11-08 18:57:38,914 - INFO - Location Name : Faridabad
+2024-11-08 18:57:38,914 - INFO - Local Time : 2024-11-08 18:55
+2024-11-08 18:57:38,914 - INFO - Condition : Clear
+2024-11-08 18:57:38,914 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 18:57:38,914 - INFO - Condition Code : 1000
+2024-11-08 18:57:38,914 - INFO - Wind Speed (kph) : 5.8
+2024-11-08 18:57:38,914 - INFO - Humidity (%) : 28
+2024-11-08 18:57:38,914 - INFO - Feels Like (°C) : 27.3
+2024-11-08 18:57:38,914 - INFO - UV Index : 0.0
+2024-11-08 18:57:38,914 - INFO - Temp Celsius : 28.6
+2024-11-08 19:00:08,415 - INFO - API key successfully loaded.
+2024-11-08 19:00:08,416 - INFO - Starting weather data retrieval process...
+2024-11-08 19:00:08,416 - INFO - Checking internet connection...
+2024-11-08 19:00:09,543 - INFO - Internet connection is available.
+2024-11-08 19:00:09,544 - INFO - Fetching IP address...
+2024-11-08 19:00:11,385 - INFO - Data successfully retrieved from API.
+2024-11-08 19:00:11,385 - INFO - Extracting weather data...
+2024-11-08 19:00:11,385 - INFO - Extracting weather data...
+2024-11-08 19:00:11,385 - INFO - Location Name : Faridabad
+2024-11-08 19:00:11,385 - INFO - Local Time : 2024-11-08 19:00
+2024-11-08 19:00:11,385 - INFO - Condition : Mist
+2024-11-08 19:00:11,386 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:00:11,386 - INFO - Condition Code : 1030
+2024-11-08 19:00:11,386 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:00:11,386 - INFO - Humidity (%) : 65
+2024-11-08 19:00:11,386 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:00:11,386 - INFO - UV Index : 0.0
+2024-11-08 19:00:11,386 - INFO - Temp Celsius : 26.1
+2024-11-08 19:07:17,345 - INFO - API key successfully loaded.
+2024-11-08 19:07:17,345 - INFO - Starting weather data retrieval process...
+2024-11-08 19:07:17,345 - INFO - Checking internet connection...
+2024-11-08 19:07:17,621 - INFO - Internet connection is available.
+2024-11-08 19:07:17,622 - INFO - Fetching IP address...
+2024-11-08 19:07:18,999 - INFO - Data successfully retrieved from API.
+2024-11-08 19:07:19,000 - INFO - Extracting weather data...
+2024-11-08 19:07:19,000 - INFO - Extracting weather data...
+2024-11-08 19:07:19,000 - INFO - Location Name : Faridabad
+2024-11-08 19:07:19,000 - INFO - Local Time : 2024-11-08 19:07
+2024-11-08 19:07:19,000 - INFO - Condition : Mist
+2024-11-08 19:07:19,000 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:07:19,000 - INFO - Condition Code : 1030
+2024-11-08 19:07:19,000 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:07:19,000 - INFO - Humidity (%) : 65
+2024-11-08 19:07:19,000 - INFO - Feels Like (°C) : 25.6
+2024-11-08 19:07:19,001 - INFO - UV Index : 0.0
+2024-11-08 19:07:19,001 - INFO - Temp Celsius : 26.3
+2024-11-08 19:08:28,069 - INFO - API key successfully loaded.
+2024-11-08 19:08:28,069 - INFO - Starting weather data retrieval process...
+2024-11-08 19:08:28,069 - INFO - Checking internet connection...
+2024-11-08 19:08:28,475 - INFO - Internet connection is available.
+2024-11-08 19:08:28,476 - INFO - Fetching IP address...
+2024-11-08 19:08:29,691 - INFO - Data successfully retrieved from API.
+2024-11-08 19:08:29,692 - INFO - Extracting weather data...
+2024-11-08 19:08:29,692 - INFO - Extracting weather data...
+2024-11-08 19:08:29,692 - INFO - Location Name : Faridabad
+2024-11-08 19:08:29,692 - INFO - Local Time : 2024-11-08 19:07
+2024-11-08 19:08:29,693 - INFO - Condition : Mist
+2024-11-08 19:08:29,693 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:08:29,693 - INFO - Condition Code : 1030
+2024-11-08 19:08:29,694 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:08:29,694 - INFO - Humidity (%) : 65
+2024-11-08 19:08:29,694 - INFO - Feels Like (°C) : 25.6
+2024-11-08 19:08:29,694 - INFO - UV Index : 0.0
+2024-11-08 19:08:29,694 - INFO - Temp Celsius : 26.3
+2024-11-08 19:08:34,576 - INFO - Fetching weather data for: agra
+2024-11-08 19:08:35,036 - INFO - Data successfully retrieved from API.
+2024-11-08 19:08:35,037 - INFO - Extracting weather data...
+2024-11-08 19:09:27,607 - INFO - API key successfully loaded.
+2024-11-08 19:09:27,607 - INFO - Starting weather data retrieval process...
+2024-11-08 19:09:27,607 - INFO - Checking internet connection...
+2024-11-08 19:09:28,292 - INFO - Internet connection is available.
+2024-11-08 19:09:28,293 - INFO - Fetching IP address...
+2024-11-08 19:09:29,720 - INFO - Data successfully retrieved from API.
+2024-11-08 19:09:29,721 - INFO - Extracting weather data...
+2024-11-08 19:09:29,721 - INFO - Extracting weather data...
+2024-11-08 19:09:29,722 - INFO - Location Name : Faridabad
+2024-11-08 19:09:29,722 - INFO - Local Time : 2024-11-08 19:07
+2024-11-08 19:09:29,722 - INFO - Condition : Mist
+2024-11-08 19:09:29,722 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:09:29,722 - INFO - Condition Code : 1030
+2024-11-08 19:09:29,722 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:09:29,722 - INFO - Humidity (%) : 65
+2024-11-08 19:09:29,722 - INFO - Feels Like (°C) : 25.6
+2024-11-08 19:09:29,722 - INFO - UV Index : 0.0
+2024-11-08 19:09:29,723 - INFO - Temp Celsius : 26.3
+2024-11-08 19:09:34,922 - INFO - Data successfully retrieved from API.
+2024-11-08 19:09:34,923 - INFO - Extracting weather data...
+2024-11-08 19:09:34,984 - INFO - Fetching weather data for: agra
+2024-11-08 19:09:35,294 - INFO - Data successfully retrieved from API.
+2024-11-08 19:09:35,295 - INFO - Extracting weather data...
+2024-11-08 19:09:51,231 - INFO - Data successfully retrieved from API.
+2024-11-08 19:09:51,231 - INFO - Extracting weather data...
+2024-11-08 19:09:51,275 - INFO - Fetching weather data for: kashmir
+2024-11-08 19:09:51,532 - INFO - Data successfully retrieved from API.
+2024-11-08 19:09:51,532 - INFO - Extracting weather data...
+2024-11-08 19:10:40,310 - INFO - Data successfully retrieved from API.
+2024-11-08 19:10:40,311 - INFO - Extracting weather data...
+2024-11-08 19:10:40,412 - INFO - Fetching weather data for: vishakhapatnam
+2024-11-08 19:10:40,657 - INFO - Data successfully retrieved from API.
+2024-11-08 19:10:40,658 - INFO - Extracting weather data...
+2024-11-08 19:10:49,396 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:10:49,396 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:10:49,410 - INFO - Fetching weather data for: abcdefgh
+2024-11-08 19:10:49,680 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:10:49,681 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:13:43,614 - INFO - API key successfully loaded.
+2024-11-08 19:13:43,614 - INFO - Starting weather data retrieval process...
+2024-11-08 19:13:43,614 - INFO - Checking internet connection...
+2024-11-08 19:13:44,304 - INFO - Internet connection is available.
+2024-11-08 19:13:44,305 - INFO - Fetching IP address...
+2024-11-08 19:13:45,695 - INFO - Data successfully retrieved from API.
+2024-11-08 19:13:45,696 - INFO - Extracting weather data...
+2024-11-08 19:13:45,696 - INFO - Extracting weather data...
+2024-11-08 19:13:45,696 - INFO - Location Name : Faridabad
+2024-11-08 19:13:45,696 - INFO - Local Time : 2024-11-08 19:13
+2024-11-08 19:13:45,696 - INFO - Condition : Mist
+2024-11-08 19:13:45,697 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:13:45,697 - INFO - Condition Code : 1030
+2024-11-08 19:13:45,697 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:13:45,697 - INFO - Humidity (%) : 65
+2024-11-08 19:13:45,697 - INFO - Feels Like (°C) : 25.6
+2024-11-08 19:13:45,697 - INFO - UV Index : 0.0
+2024-11-08 19:13:45,697 - INFO - Temp Celsius : 26.3
+2024-11-08 19:13:55,955 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:13:55,956 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:14:00,318 - INFO - Fetching weather data for: abcdefgh
+2024-11-08 19:14:00,669 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:14:00,669 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:14:05,855 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:14:05,856 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:14:07,317 - INFO - Fetching weather data for: agtasd
+2024-11-08 19:14:07,579 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:14:07,580 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:14:13,596 - INFO - Data successfully retrieved from API.
+2024-11-08 19:14:13,596 - INFO - Extracting weather data...
+2024-11-08 19:14:13,651 - INFO - Fetching weather data for: new
+2024-11-08 19:14:13,905 - INFO - Data successfully retrieved from API.
+2024-11-08 19:14:13,906 - INFO - Extracting weather data...
+2024-11-08 19:14:41,234 - INFO - Data successfully retrieved from API.
+2024-11-08 19:14:41,235 - INFO - Extracting weather data...
+2024-11-08 19:14:41,347 - INFO - Fetching weather data for: Svalbard
+2024-11-08 19:14:41,594 - INFO - Data successfully retrieved from API.
+2024-11-08 19:14:41,595 - INFO - Extracting weather data...
+2024-11-08 19:16:36,100 - INFO - Data successfully retrieved from API.
+2024-11-08 19:16:36,101 - INFO - Extracting weather data...
+2024-11-08 19:16:36,226 - INFO - Fetching weather data for: New Jersey
+2024-11-08 19:16:36,480 - INFO - Data successfully retrieved from API.
+2024-11-08 19:16:36,481 - INFO - Extracting weather data...
+2024-11-08 19:18:00,310 - INFO - API key successfully loaded.
+2024-11-08 19:18:00,311 - INFO - Starting weather data retrieval process...
+2024-11-08 19:18:00,311 - INFO - Checking internet connection...
+2024-11-08 19:18:00,719 - INFO - Internet connection is available.
+2024-11-08 19:18:00,720 - INFO - Fetching IP address...
+2024-11-08 19:18:03,295 - INFO - Data successfully retrieved from API.
+2024-11-08 19:18:03,296 - INFO - Extracting weather data...
+2024-11-08 19:18:03,296 - INFO - Extracting weather data...
+2024-11-08 19:18:03,297 - INFO - Location Name : Faridabad
+2024-11-08 19:18:03,297 - INFO - Local Time : 2024-11-08 19:18
+2024-11-08 19:18:03,297 - INFO - Condition : Mist
+2024-11-08 19:18:03,297 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:18:03,297 - INFO - Condition Code : 1030
+2024-11-08 19:18:03,297 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:18:03,297 - INFO - Humidity (%) : 65
+2024-11-08 19:18:03,297 - INFO - Feels Like (°C) : 25.5
+2024-11-08 19:18:03,297 - INFO - UV Index : 0.0
+2024-11-08 19:18:03,297 - INFO - Temp Celsius : 26.2
+2024-11-08 19:18:11,804 - INFO - Data successfully retrieved from API.
+2024-11-08 19:18:11,805 - INFO - Extracting weather data...
+2024-11-08 19:18:11,867 - INFO - Fetching weather data for: new jersey
+2024-11-08 19:18:12,118 - INFO - Data successfully retrieved from API.
+2024-11-08 19:18:12,119 - INFO - Extracting weather data...
+2024-11-08 19:18:46,629 - INFO - API key successfully loaded.
+2024-11-08 19:18:46,629 - INFO - Starting weather data retrieval process...
+2024-11-08 19:18:46,629 - INFO - Checking internet connection...
+2024-11-08 19:18:46,631 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000230DE747A10>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 19:18:46,631 - ERROR - Internet connection is not available.
+2024-11-08 19:19:01,966 - INFO - API key successfully loaded.
+2024-11-08 19:19:01,966 - INFO - Starting weather data retrieval process...
+2024-11-08 19:19:01,966 - INFO - Checking internet connection...
+2024-11-08 19:19:02,659 - INFO - Internet connection is available.
+2024-11-08 19:19:02,660 - INFO - Fetching IP address...
+2024-11-08 19:19:04,392 - INFO - Data successfully retrieved from API.
+2024-11-08 19:19:04,393 - INFO - Extracting weather data...
+2024-11-08 19:19:04,393 - INFO - Extracting weather data...
+2024-11-08 19:19:04,393 - INFO - Location Name : Faridabad
+2024-11-08 19:19:04,393 - INFO - Local Time : 2024-11-08 19:18
+2024-11-08 19:19:04,393 - INFO - Condition : Mist
+2024-11-08 19:19:04,393 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:19:04,393 - INFO - Condition Code : 1030
+2024-11-08 19:19:04,393 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:19:04,393 - INFO - Humidity (%) : 65
+2024-11-08 19:19:04,393 - INFO - Feels Like (°C) : 25.5
+2024-11-08 19:19:04,394 - INFO - UV Index : 0.0
+2024-11-08 19:19:04,394 - INFO - Temp Celsius : 26.2
+2024-11-08 19:19:19,307 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002616DE52D50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:19:19,307 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002616DE52D50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:19:28,355 - INFO - Fetching weather data for: agra
+2024-11-08 19:19:28,357 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002616DE52AD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:19:28,357 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002616DE52AD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:20:17,308 - INFO - API key successfully loaded.
+2024-11-08 19:20:17,309 - INFO - Starting weather data retrieval process...
+2024-11-08 19:20:17,309 - INFO - Checking internet connection...
+2024-11-08 19:20:17,926 - INFO - Internet connection is available.
+2024-11-08 19:20:17,927 - INFO - Fetching IP address...
+2024-11-08 19:20:19,336 - INFO - Data successfully retrieved from API.
+2024-11-08 19:20:19,337 - INFO - Extracting weather data...
+2024-11-08 19:20:19,337 - INFO - Extracting weather data...
+2024-11-08 19:20:19,337 - INFO - Location Name : Faridabad
+2024-11-08 19:20:19,337 - INFO - Local Time : 2024-11-08 19:18
+2024-11-08 19:20:19,337 - INFO - Condition : Mist
+2024-11-08 19:20:19,337 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:20:19,337 - INFO - Condition Code : 1030
+2024-11-08 19:20:19,338 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:20:19,338 - INFO - Humidity (%) : 65
+2024-11-08 19:20:19,338 - INFO - Feels Like (°C) : 25.5
+2024-11-08 19:20:19,338 - INFO - UV Index : 0.0
+2024-11-08 19:20:19,338 - INFO - Temp Celsius : 26.2
+2024-11-08 19:20:25,184 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:20:25,185 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:20:28,456 - INFO - Fetching weather data for: 282001
+2024-11-08 19:20:28,756 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:20:28,756 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:21:45,893 - INFO - Data successfully retrieved from API.
+2024-11-08 19:21:45,893 - INFO - Extracting weather data...
+2024-11-08 19:21:46,047 - INFO - Fetching weather data for: 10001
+2024-11-08 19:21:46,316 - INFO - Data successfully retrieved from API.
+2024-11-08 19:21:46,316 - INFO - Extracting weather data...
+2024-11-08 19:27:38,054 - INFO - API key successfully loaded.
+2024-11-08 19:27:38,054 - INFO - Starting weather data retrieval process...
+2024-11-08 19:27:38,054 - INFO - Checking internet connection...
+2024-11-08 19:27:39,048 - INFO - Internet connection is available.
+2024-11-08 19:27:39,049 - INFO - Fetching IP address...
+2024-11-08 19:27:40,222 - INFO - Data successfully retrieved from API.
+2024-11-08 19:27:40,223 - INFO - Extracting weather data...
+2024-11-08 19:27:40,223 - INFO - Extracting weather data...
+2024-11-08 19:27:40,223 - INFO - Location Name : Faridabad
+2024-11-08 19:27:40,223 - INFO - Local Time : 2024-11-08 19:25
+2024-11-08 19:27:40,223 - INFO - Condition : Mist
+2024-11-08 19:27:40,223 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:27:40,223 - INFO - Condition Code : 1030
+2024-11-08 19:27:40,224 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:27:40,224 - INFO - Humidity (%) : 65
+2024-11-08 19:27:40,224 - INFO - Feels Like (°C) : 25.5
+2024-11-08 19:27:40,224 - INFO - UV Index : 0.0
+2024-11-08 19:27:40,224 - INFO - Temp Celsius : 26.2
+2024-11-08 19:27:48,379 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:27:48,380 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:27:48,397 - INFO - Fetching weather data for: chanakya
+2024-11-08 19:27:48,654 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:27:48,654 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:28:04,908 - INFO - API key successfully loaded.
+2024-11-08 19:28:04,908 - INFO - Starting weather data retrieval process...
+2024-11-08 19:28:04,908 - INFO - Checking internet connection...
+2024-11-08 19:28:05,644 - INFO - Internet connection is available.
+2024-11-08 19:28:05,644 - INFO - Fetching IP address...
+2024-11-08 19:28:06,767 - INFO - Data successfully retrieved from API.
+2024-11-08 19:28:06,768 - INFO - Extracting weather data...
+2024-11-08 19:28:06,768 - INFO - Extracting weather data...
+2024-11-08 19:28:06,768 - INFO - Location Name : Faridabad
+2024-11-08 19:28:06,768 - INFO - Local Time : 2024-11-08 19:25
+2024-11-08 19:28:06,768 - INFO - Condition : Mist
+2024-11-08 19:28:06,768 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:28:06,768 - INFO - Condition Code : 1030
+2024-11-08 19:28:06,768 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:28:06,768 - INFO - Humidity (%) : 65
+2024-11-08 19:28:06,768 - INFO - Feels Like (°C) : 25.5
+2024-11-08 19:28:06,769 - INFO - UV Index : 0.0
+2024-11-08 19:28:06,769 - INFO - Temp Celsius : 26.2
+2024-11-08 19:28:12,187 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:28:12,188 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:28:16,696 - INFO - Fetching weather data for: chanakya
+2024-11-08 19:28:16,958 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 19:28:16,958 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 19:31:18,139 - INFO - API key successfully loaded.
+2024-11-08 19:31:18,139 - INFO - Starting weather data retrieval process...
+2024-11-08 19:31:18,139 - INFO - Checking internet connection...
+2024-11-08 19:31:18,470 - INFO - Internet connection is available.
+2024-11-08 19:31:18,471 - INFO - Fetching IP address...
+2024-11-08 19:31:19,934 - INFO - Data successfully retrieved from API.
+2024-11-08 19:31:19,935 - INFO - Extracting weather data...
+2024-11-08 19:31:19,935 - INFO - Extracting weather data...
+2024-11-08 19:31:19,935 - INFO - Location Name : Faridabad
+2024-11-08 19:31:19,936 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:31:19,936 - INFO - Condition : Mist
+2024-11-08 19:31:19,936 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:31:19,936 - INFO - Condition Code : 1030
+2024-11-08 19:31:19,936 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:31:19,936 - INFO - Humidity (%) : 65
+2024-11-08 19:31:19,936 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:31:19,936 - INFO - UV Index : 0.0
+2024-11-08 19:31:19,936 - INFO - Temp Celsius : 26.1
+2024-11-08 19:32:17,671 - INFO - API key successfully loaded.
+2024-11-08 19:32:17,671 - INFO - Starting weather data retrieval process...
+2024-11-08 19:32:17,672 - INFO - Checking internet connection...
+2024-11-08 19:32:18,377 - INFO - Internet connection is available.
+2024-11-08 19:32:18,378 - INFO - Fetching IP address...
+2024-11-08 19:32:19,598 - INFO - Data successfully retrieved from API.
+2024-11-08 19:32:19,599 - INFO - Extracting weather data...
+2024-11-08 19:32:19,599 - INFO - Extracting weather data...
+2024-11-08 19:32:19,599 - INFO - Location Name : Faridabad
+2024-11-08 19:32:19,599 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:32:19,599 - INFO - Condition : Mist
+2024-11-08 19:32:19,599 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:32:19,599 - INFO - Condition Code : 1030
+2024-11-08 19:32:19,599 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:32:19,600 - INFO - Humidity (%) : 65
+2024-11-08 19:32:19,600 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:32:19,600 - INFO - UV Index : 0.0
+2024-11-08 19:32:19,600 - INFO - Temp Celsius : 26.1
+2024-11-08 19:32:34,026 - INFO - API key successfully loaded.
+2024-11-08 19:32:34,027 - INFO - Starting weather data retrieval process...
+2024-11-08 19:32:34,027 - INFO - Checking internet connection...
+2024-11-08 19:32:34,684 - INFO - Internet connection is available.
+2024-11-08 19:32:34,685 - INFO - Fetching IP address...
+2024-11-08 19:32:38,099 - INFO - Data successfully retrieved from API.
+2024-11-08 19:32:38,100 - INFO - Extracting weather data...
+2024-11-08 19:32:38,100 - INFO - Extracting weather data...
+2024-11-08 19:32:38,100 - INFO - Location Name : Faridabad
+2024-11-08 19:32:38,101 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:32:38,101 - INFO - Condition : Mist
+2024-11-08 19:32:38,101 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:32:38,101 - INFO - Condition Code : 1030
+2024-11-08 19:32:38,101 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:32:38,101 - INFO - Humidity (%) : 65
+2024-11-08 19:32:38,101 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:32:38,101 - INFO - UV Index : 0.0
+2024-11-08 19:32:38,101 - INFO - Temp Celsius : 26.1
+2024-11-08 19:32:51,874 - INFO - API key successfully loaded.
+2024-11-08 19:32:51,874 - INFO - Starting weather data retrieval process...
+2024-11-08 19:32:51,874 - INFO - Checking internet connection...
+2024-11-08 19:32:52,300 - INFO - Internet connection is available.
+2024-11-08 19:32:52,301 - INFO - Fetching IP address...
+2024-11-08 19:32:54,989 - INFO - Data successfully retrieved from API.
+2024-11-08 19:32:54,990 - INFO - Extracting weather data...
+2024-11-08 19:32:54,990 - INFO - Extracting weather data...
+2024-11-08 19:32:54,991 - INFO - Location Name : Faridabad
+2024-11-08 19:32:54,991 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:32:54,991 - INFO - Condition : Mist
+2024-11-08 19:32:54,991 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:32:54,992 - INFO - Condition Code : 1030
+2024-11-08 19:32:54,992 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:32:54,992 - INFO - Humidity (%) : 65
+2024-11-08 19:32:54,992 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:32:54,992 - INFO - UV Index : 0.0
+2024-11-08 19:32:54,992 - INFO - Temp Celsius : 26.1
+2024-11-08 19:33:03,146 - INFO - API key successfully loaded.
+2024-11-08 19:33:03,147 - INFO - Starting weather data retrieval process...
+2024-11-08 19:33:03,147 - INFO - Checking internet connection...
+2024-11-08 19:33:03,790 - INFO - Internet connection is available.
+2024-11-08 19:33:03,791 - INFO - Fetching IP address...
+2024-11-08 19:33:06,642 - INFO - Data successfully retrieved from API.
+2024-11-08 19:33:06,643 - INFO - Extracting weather data...
+2024-11-08 19:33:06,643 - INFO - Extracting weather data...
+2024-11-08 19:33:06,644 - INFO - Location Name : Faridabad
+2024-11-08 19:33:06,644 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:33:06,644 - INFO - Condition : Mist
+2024-11-08 19:33:06,644 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:33:06,644 - INFO - Condition Code : 1030
+2024-11-08 19:33:06,644 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:33:06,644 - INFO - Humidity (%) : 65
+2024-11-08 19:33:06,644 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:33:06,644 - INFO - UV Index : 0.0
+2024-11-08 19:33:06,645 - INFO - Temp Celsius : 26.1
+2024-11-08 19:33:42,019 - INFO - API key successfully loaded.
+2024-11-08 19:33:42,020 - INFO - Starting weather data retrieval process...
+2024-11-08 19:33:42,020 - INFO - Checking internet connection...
+2024-11-08 19:33:42,364 - INFO - Internet connection is available.
+2024-11-08 19:33:42,364 - INFO - Fetching IP address...
+2024-11-08 19:33:43,525 - INFO - Data successfully retrieved from API.
+2024-11-08 19:33:43,526 - INFO - Extracting weather data...
+2024-11-08 19:33:43,526 - INFO - Extracting weather data...
+2024-11-08 19:33:43,527 - INFO - Location Name : Faridabad
+2024-11-08 19:33:43,527 - INFO - Local Time : 2024-11-08 19:31
+2024-11-08 19:33:43,527 - INFO - Condition : Mist
+2024-11-08 19:33:43,527 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:33:43,527 - INFO - Condition Code : 1030
+2024-11-08 19:33:43,527 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:33:43,527 - INFO - Humidity (%) : 65
+2024-11-08 19:33:43,527 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:33:43,528 - INFO - UV Index : 0.0
+2024-11-08 19:33:43,528 - INFO - Temp Celsius : 26.1
+2024-11-08 19:33:49,700 - INFO - Data successfully retrieved from API.
+2024-11-08 19:33:49,701 - INFO - Extracting weather data...
+2024-11-08 19:33:49,746 - INFO - Fetching weather data for: agra
+2024-11-08 19:33:50,005 - INFO - Data successfully retrieved from API.
+2024-11-08 19:33:50,006 - INFO - Extracting weather data...
+2024-11-08 19:34:25,736 - INFO - API key successfully loaded.
+2024-11-08 19:34:25,736 - INFO - Starting weather data retrieval process...
+2024-11-08 19:34:25,736 - INFO - Checking internet connection...
+2024-11-08 19:34:26,301 - INFO - Internet connection is available.
+2024-11-08 19:34:26,302 - INFO - Fetching IP address...
+2024-11-08 19:34:27,885 - INFO - Data successfully retrieved from API.
+2024-11-08 19:34:27,886 - INFO - Extracting weather data...
+2024-11-08 19:34:27,886 - INFO - Extracting weather data...
+2024-11-08 19:34:27,887 - INFO - Location Name : Faridabad
+2024-11-08 19:34:27,887 - INFO - Local Time : 2024-11-08 19:34
+2024-11-08 19:34:27,887 - INFO - Condition : Mist
+2024-11-08 19:34:27,887 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:34:27,887 - INFO - Condition Code : 1030
+2024-11-08 19:34:27,887 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:34:27,887 - INFO - Humidity (%) : 65
+2024-11-08 19:34:27,887 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:34:27,887 - INFO - UV Index : 0.0
+2024-11-08 19:34:27,887 - INFO - Temp Celsius : 26.1
+2024-11-08 19:34:34,686 - INFO - Data successfully retrieved from API.
+2024-11-08 19:34:34,687 - INFO - Extracting weather data...
+2024-11-08 19:35:37,316 - INFO - API key successfully loaded.
+2024-11-08 19:35:37,316 - INFO - Starting weather data retrieval process...
+2024-11-08 19:35:37,316 - INFO - Checking internet connection...
+2024-11-08 19:35:38,207 - INFO - Internet connection is available.
+2024-11-08 19:35:38,207 - INFO - Fetching IP address...
+2024-11-08 19:35:39,460 - INFO - Data successfully retrieved from API.
+2024-11-08 19:35:39,460 - INFO - Extracting weather data...
+2024-11-08 19:35:39,461 - INFO - Extracting weather data...
+2024-11-08 19:35:39,461 - INFO - Location Name : Faridabad
+2024-11-08 19:35:39,461 - INFO - Local Time : 2024-11-08 19:34
+2024-11-08 19:35:39,461 - INFO - Condition : Mist
+2024-11-08 19:35:39,461 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:35:39,461 - INFO - Condition Code : 1030
+2024-11-08 19:35:39,461 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:35:39,461 - INFO - Humidity (%) : 65
+2024-11-08 19:35:39,462 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:35:39,462 - INFO - UV Index : 0.0
+2024-11-08 19:35:39,462 - INFO - Temp Celsius : 26.1
+2024-11-08 19:35:44,125 - INFO - Data successfully retrieved from API.
+2024-11-08 19:35:44,126 - INFO - Extracting weather data...
+2024-11-08 19:35:44,181 - INFO - Fetching weather data for: agra
+2024-11-08 19:35:44,429 - INFO - Data successfully retrieved from API.
+2024-11-08 19:35:44,430 - INFO - Extracting weather data...
+2024-11-08 19:36:45,593 - INFO - API key successfully loaded.
+2024-11-08 19:36:45,593 - INFO - Starting weather data retrieval process...
+2024-11-08 19:36:45,594 - INFO - Checking internet connection...
+2024-11-08 19:36:46,025 - INFO - Internet connection is available.
+2024-11-08 19:36:46,026 - INFO - Fetching IP address...
+2024-11-08 19:36:48,278 - INFO - Data successfully retrieved from API.
+2024-11-08 19:36:48,279 - INFO - Extracting weather data...
+2024-11-08 19:36:48,279 - INFO - Extracting weather data...
+2024-11-08 19:36:48,279 - INFO - Location Name : Faridabad
+2024-11-08 19:36:48,280 - INFO - Local Time : 2024-11-08 19:34
+2024-11-08 19:36:48,280 - INFO - Condition : Mist
+2024-11-08 19:36:48,280 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:36:48,280 - INFO - Condition Code : 1030
+2024-11-08 19:36:48,280 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:36:48,280 - INFO - Humidity (%) : 65
+2024-11-08 19:36:48,280 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:36:48,280 - INFO - UV Index : 0.0
+2024-11-08 19:36:48,280 - INFO - Temp Celsius : 26.1
+2024-11-08 19:37:56,611 - INFO - API key successfully loaded.
+2024-11-08 19:37:56,611 - INFO - Starting weather data retrieval process...
+2024-11-08 19:37:56,611 - INFO - Checking internet connection...
+2024-11-08 19:37:56,972 - INFO - Internet connection is available.
+2024-11-08 19:37:56,973 - INFO - Fetching IP address...
+2024-11-08 19:37:59,141 - INFO - Data successfully retrieved from API.
+2024-11-08 19:37:59,142 - INFO - Extracting weather data...
+2024-11-08 19:37:59,142 - INFO - Extracting weather data...
+2024-11-08 19:37:59,142 - INFO - Location Name : Faridabad
+2024-11-08 19:37:59,142 - INFO - Local Time : 2024-11-08 19:37
+2024-11-08 19:37:59,142 - INFO - Condition : Mist
+2024-11-08 19:37:59,142 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:37:59,143 - INFO - Condition Code : 1030
+2024-11-08 19:37:59,143 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:37:59,143 - INFO - Humidity (%) : 65
+2024-11-08 19:37:59,143 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:37:59,143 - INFO - UV Index : 0.0
+2024-11-08 19:37:59,143 - INFO - Temp Celsius : 26.1
+2024-11-08 19:38:07,211 - INFO - Data successfully retrieved from API.
+2024-11-08 19:38:07,212 - INFO - Extracting weather data...
+2024-11-08 19:38:07,259 - INFO - Fetching weather data for: agra
+2024-11-08 19:38:07,525 - INFO - Data successfully retrieved from API.
+2024-11-08 19:38:07,526 - INFO - Extracting weather data...
+2024-11-08 19:43:41,642 - INFO - API key successfully loaded.
+2024-11-08 19:43:41,642 - INFO - Starting weather data retrieval process...
+2024-11-08 19:43:41,642 - INFO - Checking internet connection...
+2024-11-08 19:43:42,158 - INFO - Internet connection is available.
+2024-11-08 19:43:42,159 - INFO - Fetching IP address...
+2024-11-08 19:43:45,082 - INFO - Data successfully retrieved from API.
+2024-11-08 19:43:45,083 - INFO - Extracting weather data...
+2024-11-08 19:43:45,083 - INFO - Extracting weather data...
+2024-11-08 19:43:45,083 - INFO - Location Name : Faridabad
+2024-11-08 19:43:45,083 - INFO - Local Time : 2024-11-08 19:43
+2024-11-08 19:43:45,083 - INFO - Condition : Mist
+2024-11-08 19:43:45,083 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:43:45,083 - INFO - Condition Code : 1030
+2024-11-08 19:43:45,083 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:43:45,084 - INFO - Humidity (%) : 65
+2024-11-08 19:43:45,084 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:43:45,084 - INFO - UV Index : 0.0
+2024-11-08 19:43:45,084 - INFO - Temp Celsius : 26.1
+2024-11-08 19:43:52,092 - INFO - Data successfully retrieved from API.
+2024-11-08 19:43:52,093 - INFO - Extracting weather data...
+2024-11-08 19:43:52,140 - INFO - Fetching weather data for: agra
+2024-11-08 19:43:52,406 - INFO - Data successfully retrieved from API.
+2024-11-08 19:43:52,406 - INFO - Extracting weather data...
+2024-11-08 19:44:05,030 - INFO - Data successfully retrieved from API.
+2024-11-08 19:44:05,031 - INFO - Extracting weather data...
+2024-11-08 19:44:05,078 - INFO - Fetching weather data for: sonipat
+2024-11-08 19:44:05,335 - INFO - Data successfully retrieved from API.
+2024-11-08 19:44:05,335 - INFO - Extracting weather data...
+2024-11-08 19:45:24,122 - INFO - API key successfully loaded.
+2024-11-08 19:45:24,122 - INFO - Starting weather data retrieval process...
+2024-11-08 19:45:24,122 - INFO - Checking internet connection...
+2024-11-08 19:45:24,809 - INFO - Internet connection is available.
+2024-11-08 19:45:24,810 - INFO - Fetching IP address...
+2024-11-08 19:45:26,152 - INFO - Data successfully retrieved from API.
+2024-11-08 19:45:26,152 - INFO - Extracting weather data...
+2024-11-08 19:45:26,152 - INFO - Extracting weather data...
+2024-11-08 19:45:26,153 - INFO - Location Name : Faridabad
+2024-11-08 19:45:26,153 - INFO - Local Time : 2024-11-08 19:43
+2024-11-08 19:45:26,153 - INFO - Condition : Mist
+2024-11-08 19:45:26,153 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:45:26,153 - INFO - Condition Code : 1030
+2024-11-08 19:45:26,153 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:45:26,153 - INFO - Humidity (%) : 65
+2024-11-08 19:45:26,153 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:45:26,153 - INFO - UV Index : 0.0
+2024-11-08 19:45:26,154 - INFO - Temp Celsius : 26.1
+2024-11-08 19:46:13,622 - INFO - API key successfully loaded.
+2024-11-08 19:46:13,622 - INFO - Starting weather data retrieval process...
+2024-11-08 19:46:13,622 - INFO - Checking internet connection...
+2024-11-08 19:46:13,625 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F375D0F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 19:46:13,625 - ERROR - Internet connection is not available.
+2024-11-08 19:46:27,786 - INFO - API key successfully loaded.
+2024-11-08 19:46:27,786 - INFO - Starting weather data retrieval process...
+2024-11-08 19:46:27,786 - INFO - Checking internet connection...
+2024-11-08 19:46:28,055 - INFO - Internet connection is available.
+2024-11-08 19:46:28,055 - INFO - Fetching IP address...
+2024-11-08 19:46:29,364 - INFO - Data successfully retrieved from API.
+2024-11-08 19:46:29,364 - INFO - Extracting weather data...
+2024-11-08 19:46:29,364 - INFO - Extracting weather data...
+2024-11-08 19:46:29,364 - INFO - Location Name : Faridabad
+2024-11-08 19:46:29,365 - INFO - Local Time : 2024-11-08 19:43
+2024-11-08 19:46:29,365 - INFO - Condition : Mist
+2024-11-08 19:46:29,365 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 19:46:29,365 - INFO - Condition Code : 1030
+2024-11-08 19:46:29,365 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:46:29,365 - INFO - Humidity (%) : 65
+2024-11-08 19:46:29,365 - INFO - Feels Like (°C) : 25.4
+2024-11-08 19:46:29,365 - INFO - UV Index : 0.0
+2024-11-08 19:46:29,365 - INFO - Temp Celsius : 26.1
+2024-11-08 19:46:41,609 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002383B9CE990>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:46:41,609 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002383B9CE990>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:46:45,973 - INFO - Fetching weather data for: agra
+2024-11-08 19:46:45,974 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002383B9CE710>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:46:45,974 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002383B9CE710>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:47:29,980 - INFO - API key successfully loaded.
+2024-11-08 19:47:29,980 - INFO - Starting weather data retrieval process...
+2024-11-08 19:47:29,981 - INFO - Checking internet connection...
+2024-11-08 19:47:29,983 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E94416F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 19:47:29,983 - ERROR - Internet connection is not available.
+2024-11-08 19:47:52,180 - INFO - Data successfully retrieved from API.
+2024-11-08 19:47:52,181 - INFO - Extracting weather data...
+2024-11-08 19:47:52,283 - INFO - Fetching weather data for: agra
+2024-11-08 19:47:52,526 - INFO - Data successfully retrieved from API.
+2024-11-08 19:47:52,526 - INFO - Extracting weather data...
+2024-11-08 19:48:07,393 - INFO - Data successfully retrieved from API.
+2024-11-08 19:48:07,393 - INFO - Extracting weather data...
+2024-11-08 19:48:07,444 - INFO - Fetching weather data for: manali
+2024-11-08 19:48:07,714 - INFO - Data successfully retrieved from API.
+2024-11-08 19:48:07,715 - INFO - Extracting weather data...
+2024-11-08 19:52:30,173 - INFO - API key successfully loaded.
+2024-11-08 19:52:30,173 - INFO - Starting weather data retrieval process...
+2024-11-08 19:52:30,173 - INFO - Checking internet connection...
+2024-11-08 19:52:30,593 - INFO - Internet connection is available.
+2024-11-08 19:52:30,594 - INFO - Fetching IP address...
+2024-11-08 19:52:31,949 - INFO - Data successfully retrieved from API.
+2024-11-08 19:52:31,949 - INFO - Extracting weather data...
+2024-11-08 19:52:31,950 - INFO - Extracting weather data...
+2024-11-08 19:52:31,950 - INFO - Location Name : Faridabad
+2024-11-08 19:52:31,950 - INFO - Local Time : 2024-11-08 19:52
+2024-11-08 19:52:31,950 - INFO - Condition : Clear
+2024-11-08 19:52:31,950 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 19:52:31,950 - INFO - Condition Code : 1000
+2024-11-08 19:52:31,950 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:52:31,950 - INFO - Humidity (%) : 30
+2024-11-08 19:52:31,951 - INFO - Feels Like (°C) : 26.9
+2024-11-08 19:52:31,951 - INFO - UV Index : 0.0
+2024-11-08 19:52:31,951 - INFO - Temp Celsius : 27.9
+2024-11-08 19:52:41,759 - INFO - Data successfully retrieved from API.
+2024-11-08 19:52:41,760 - INFO - Extracting weather data...
+2024-11-08 19:52:41,810 - INFO - Fetching weather data for: rohtak
+2024-11-08 19:52:42,061 - INFO - Data successfully retrieved from API.
+2024-11-08 19:52:42,062 - INFO - Extracting weather data...
+2024-11-08 19:53:43,166 - INFO - API key successfully loaded.
+2024-11-08 19:53:52,816 - INFO - Data successfully retrieved from API.
+2024-11-08 19:53:52,817 - INFO - Extracting weather data...
+2024-11-08 19:53:52,902 - INFO - Fetching weather data for: agra
+2024-11-08 19:53:53,326 - INFO - Data successfully retrieved from API.
+2024-11-08 19:53:53,326 - INFO - Extracting weather data...
+2024-11-08 19:54:09,929 - INFO - API key successfully loaded.
+2024-11-08 19:54:12,394 - INFO - Starting weather data retrieval process...
+2024-11-08 19:54:12,394 - INFO - Checking internet connection...
+2024-11-08 19:54:12,922 - INFO - Internet connection is available.
+2024-11-08 19:54:12,923 - INFO - Fetching IP address...
+2024-11-08 19:54:14,887 - INFO - Data successfully retrieved from API.
+2024-11-08 19:54:14,888 - INFO - Extracting weather data...
+2024-11-08 19:54:14,888 - INFO - Extracting weather data...
+2024-11-08 19:54:14,888 - INFO - Location Name : Faridabad
+2024-11-08 19:54:14,888 - INFO - Local Time : 2024-11-08 19:52
+2024-11-08 19:54:14,888 - INFO - Condition : Clear
+2024-11-08 19:54:14,888 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 19:54:14,889 - INFO - Condition Code : 1000
+2024-11-08 19:54:14,889 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:54:14,889 - INFO - Humidity (%) : 30
+2024-11-08 19:54:14,889 - INFO - Feels Like (°C) : 26.9
+2024-11-08 19:54:14,889 - INFO - UV Index : 0.0
+2024-11-08 19:54:14,889 - INFO - Temp Celsius : 27.9
+2024-11-08 19:59:51,914 - INFO - API key successfully loaded.
+2024-11-08 19:59:51,914 - INFO - Starting weather data retrieval process...
+2024-11-08 19:59:51,914 - INFO - Checking internet connection...
+2024-11-08 19:59:52,577 - INFO - Internet connection is available.
+2024-11-08 19:59:52,579 - INFO - Fetching IP address...
+2024-11-08 19:59:54,628 - INFO - Data successfully retrieved from API.
+2024-11-08 19:59:54,629 - INFO - Extracting weather data...
+2024-11-08 19:59:54,629 - INFO - Extracting weather data...
+2024-11-08 19:59:54,629 - INFO - Location Name : Faridabad
+2024-11-08 19:59:54,629 - INFO - Local Time : 2024-11-08 19:59
+2024-11-08 19:59:54,630 - INFO - Condition : Clear
+2024-11-08 19:59:54,630 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 19:59:54,630 - INFO - Condition Code : 1000
+2024-11-08 19:59:54,630 - INFO - Wind Speed (kph) : 7.6
+2024-11-08 19:59:54,630 - INFO - Humidity (%) : 30
+2024-11-08 19:59:54,630 - INFO - Feels Like (°C) : 26.9
+2024-11-08 19:59:54,630 - INFO - UV Index : 0.0
+2024-11-08 19:59:54,630 - INFO - Temp Celsius : 27.9
+2024-11-08 20:29:37,933 - INFO - API key successfully loaded.
+2024-11-08 20:29:37,933 - INFO - Starting weather data retrieval process...
+2024-11-08 20:29:37,933 - INFO - Checking internet connection...
+2024-11-08 20:29:38,373 - INFO - Internet connection is available.
+2024-11-08 20:29:38,374 - INFO - Fetching IP address...
+2024-11-08 20:29:40,029 - INFO - Data successfully retrieved from API.
+2024-11-08 20:29:40,030 - INFO - Extracting weather data...
+2024-11-08 20:29:40,030 - INFO - Extracting weather data...
+2024-11-08 20:29:40,030 - INFO - Location Name : Faridabad
+2024-11-08 20:29:40,030 - INFO - Local Time : 2024-11-08 20:29
+2024-11-08 20:29:40,030 - INFO - Condition : Clear
+2024-11-08 20:29:40,030 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 20:29:40,030 - INFO - Condition Code : 1000
+2024-11-08 20:29:40,030 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 20:29:40,031 - INFO - Humidity (%) : 32
+2024-11-08 20:29:40,031 - INFO - Feels Like (°C) : 26.4
+2024-11-08 20:29:40,031 - INFO - UV Index : 0.0
+2024-11-08 20:29:40,031 - INFO - Temp Celsius : 27.1
+2024-11-08 20:30:38,988 - INFO - API key successfully loaded.
+2024-11-08 20:30:38,988 - INFO - Starting weather data retrieval process...
+2024-11-08 20:30:38,988 - INFO - Checking internet connection...
+2024-11-08 20:30:39,385 - INFO - Internet connection is available.
+2024-11-08 20:30:39,386 - INFO - Fetching IP address...
+2024-11-08 20:30:40,645 - INFO - Data successfully retrieved from API.
+2024-11-08 20:30:40,646 - INFO - Extracting weather data...
+2024-11-08 20:30:40,646 - INFO - Extracting weather data...
+2024-11-08 20:30:40,646 - INFO - Location Name : Faridabad
+2024-11-08 20:30:40,646 - INFO - Local Time : 2024-11-08 20:29
+2024-11-08 20:30:40,646 - INFO - Condition : Clear
+2024-11-08 20:30:40,646 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 20:30:40,647 - INFO - Condition Code : 1000
+2024-11-08 20:30:40,647 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 20:30:40,647 - INFO - Humidity (%) : 32
+2024-11-08 20:30:40,647 - INFO - Feels Like (°C) : 26.4
+2024-11-08 20:30:40,647 - INFO - UV Index : 0.0
+2024-11-08 20:30:40,647 - INFO - Temp Celsius : 27.1
+2024-11-08 20:31:37,973 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:31:37,974 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:31:39,438 - INFO - Fetching weather data for: hjasd
+2024-11-08 20:31:39,703 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:31:39,703 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:31:48,002 - INFO - API key successfully loaded.
+2024-11-08 20:31:48,002 - INFO - Starting weather data retrieval process...
+2024-11-08 20:31:48,002 - INFO - Checking internet connection...
+2024-11-08 20:31:48,365 - INFO - Internet connection is available.
+2024-11-08 20:31:48,366 - INFO - Fetching IP address...
+2024-11-08 20:31:49,621 - INFO - Data successfully retrieved from API.
+2024-11-08 20:31:49,621 - INFO - Extracting weather data...
+2024-11-08 20:31:49,622 - INFO - Extracting weather data...
+2024-11-08 20:31:49,622 - INFO - Location Name : Faridabad
+2024-11-08 20:31:49,622 - INFO - Local Time : 2024-11-08 20:29
+2024-11-08 20:31:49,622 - INFO - Condition : Clear
+2024-11-08 20:31:49,622 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 20:31:49,622 - INFO - Condition Code : 1000
+2024-11-08 20:31:49,622 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 20:31:49,623 - INFO - Humidity (%) : 32
+2024-11-08 20:31:49,623 - INFO - Feels Like (°C) : 26.4
+2024-11-08 20:31:49,623 - INFO - UV Index : 0.0
+2024-11-08 20:31:49,624 - INFO - Temp Celsius : 27.1
+2024-11-08 20:31:58,748 - INFO - Data successfully retrieved from API.
+2024-11-08 20:31:58,748 - INFO - Extracting weather data...
+2024-11-08 20:31:58,810 - INFO - Fetching weather data for: agra
+2024-11-08 20:31:59,067 - INFO - Data successfully retrieved from API.
+2024-11-08 20:31:59,067 - INFO - Extracting weather data...
+2024-11-08 20:32:05,930 - INFO - Data successfully retrieved from API.
+2024-11-08 20:32:05,931 - INFO - Extracting weather data...
+2024-11-08 20:32:06,064 - INFO - Fetching weather data for: faridabad
+2024-11-08 20:32:06,311 - INFO - Data successfully retrieved from API.
+2024-11-08 20:32:06,312 - INFO - Extracting weather data...
+2024-11-08 20:32:20,623 - INFO - Data successfully retrieved from API.
+2024-11-08 20:32:20,623 - INFO - Extracting weather data...
+2024-11-08 20:32:20,676 - INFO - Fetching weather data for: new jersey
+2024-11-08 20:32:20,933 - INFO - Data successfully retrieved from API.
+2024-11-08 20:32:20,934 - INFO - Extracting weather data...
+2024-11-08 20:49:03,078 - INFO - API key successfully loaded.
+2024-11-08 20:49:03,078 - INFO - Starting weather data retrieval process...
+2024-11-08 20:49:03,078 - INFO - Checking internet connection...
+2024-11-08 20:49:03,418 - INFO - Internet connection is available.
+2024-11-08 20:49:03,419 - INFO - Fetching IP address...
+2024-11-08 20:49:04,992 - INFO - Data successfully retrieved from API.
+2024-11-08 20:49:04,992 - INFO - Extracting weather data...
+2024-11-08 20:49:04,993 - INFO - Extracting weather data...
+2024-11-08 20:49:04,993 - INFO - Location Name : Faridabad
+2024-11-08 20:49:04,993 - INFO - Local Time : 2024-11-08 20:48
+2024-11-08 20:49:04,993 - INFO - Condition : Mist
+2024-11-08 20:49:04,993 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 20:49:04,993 - INFO - Condition Code : 1030
+2024-11-08 20:49:04,993 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 20:49:04,993 - INFO - Humidity (%) : 69
+2024-11-08 20:49:04,993 - INFO - Feels Like (°C) : 25.1
+2024-11-08 20:49:04,994 - INFO - UV Index : 0.0
+2024-11-08 20:49:04,994 - INFO - Temp Celsius : 25.3
+2024-11-08 20:50:41,420 - INFO - Data successfully retrieved from API.
+2024-11-08 20:50:41,421 - INFO - Extracting weather data...
+2024-11-08 20:50:41,590 - INFO - Fetching weather data for: agra
+2024-11-08 20:50:41,845 - INFO - Data successfully retrieved from API.
+2024-11-08 20:50:41,846 - INFO - Extracting weather data...
+2024-11-08 20:50:51,785 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:50:51,786 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:01,834 - INFO - Fetching weather data for: nocity
+2024-11-08 20:51:02,279 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:02,279 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:15,386 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:15,386 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:36,221 - INFO - Fetching weather data for: nocity
+2024-11-08 20:51:36,755 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:36,755 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:44,902 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FE850>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:44,902 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FE850>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:47,256 - INFO - Fetching weather data for: agra
+2024-11-08 20:51:47,258 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FEAD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:47,258 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FEAD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:52:09,296 - INFO - API key successfully loaded.
+2024-11-08 20:52:09,296 - INFO - Starting weather data retrieval process...
+2024-11-08 20:52:09,296 - INFO - Checking internet connection...
+2024-11-08 20:52:09,298 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021068FEF4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:52:09,298 - ERROR - Internet connection is not available.
+2024-11-08 20:52:40,175 - INFO - API key successfully loaded.
+2024-11-08 20:52:40,176 - INFO - Starting weather data retrieval process...
+2024-11-08 20:52:40,176 - INFO - Checking internet connection...
+2024-11-08 20:52:40,179 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000141C922F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:52:40,179 - ERROR - Internet connection is not available.
+2024-11-08 20:53:10,357 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0190>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:10,357 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0190>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:14,928 - INFO - Fetching weather data for: agra
+2024-11-08 20:53:14,932 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0A50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:14,932 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0A50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:29,290 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E11D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:29,290 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E11D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:45,805 - INFO - Fetching weather data for: agra
+2024-11-08 20:53:45,809 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E1590>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:45,809 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E1590>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:56:20,796 - INFO - API key successfully loaded.
+2024-11-08 20:56:20,796 - INFO - Starting weather data retrieval process...
+2024-11-08 20:56:20,796 - INFO - Checking internet connection...
+2024-11-08 20:56:20,798 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DD57A5F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:56:20,798 - ERROR - Internet connection is not available.
+2024-11-08 20:56:55,332 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:56:55,333 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:57:29,200 - INFO - Fetching weather data for: nocity
+2024-11-08 20:57:29,657 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:57:29,658 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 21:27:46,516 - INFO - API key successfully loaded.
+2024-11-08 21:27:46,516 - INFO - Starting weather data retrieval process...
+2024-11-08 21:27:46,516 - INFO - Checking internet connection...
+2024-11-08 21:27:47,414 - INFO - Internet connection is available.
+2024-11-08 21:27:47,415 - INFO - Fetching IP address...
+2024-11-08 21:27:50,015 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:50,016 - INFO - Extracting weather data...
+2024-11-08 21:27:50,016 - INFO - Extracting weather data...
+2024-11-08 21:27:50,016 - INFO - Location Name : Faridabad
+2024-11-08 21:27:50,016 - INFO - Local Time : 2024-11-08 21:27
+2024-11-08 21:27:50,016 - INFO - Condition : Clear
+2024-11-08 21:27:50,016 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 21:27:50,017 - INFO - Condition Code : 1000
+2024-11-08 21:27:50,017 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 21:27:50,017 - INFO - Humidity (%) : 35
+2024-11-08 21:27:50,017 - INFO - Feels Like (°C) : 26.0
+2024-11-08 21:27:50,017 - INFO - UV Index : 0.0
+2024-11-08 21:27:50,017 - INFO - Temp Celsius : 26.4
+2024-11-08 21:27:57,212 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:57,213 - INFO - Extracting weather data...
+2024-11-08 21:27:57,267 - INFO - Fetching weather data for: agra
+2024-11-08 21:27:57,530 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:57,531 - INFO - Extracting weather data...
+2024-12-01 11:04:58,752 - INFO - API key successfully loaded.
+2024-12-01 11:04:58,755 - INFO - Starting weather data retrieval process...
+2024-12-01 11:04:58,755 - INFO - Checking internet connection...
+2024-12-01 11:05:00,447 - INFO - Internet connection is available.
+2024-12-01 11:05:00,451 - INFO - Fetching IP address...
+2024-12-01 11:05:02,801 - INFO - Data successfully retrieved from API.
+2024-12-01 11:05:02,803 - INFO - Extracting weather data...
+2024-12-01 11:05:02,804 - INFO - Extracting weather data...
+2024-12-01 11:05:02,807 - INFO - Location Name : Noida
+2024-12-01 11:05:02,807 - INFO - Local Time : 2024-12-01 11:04
+2024-12-01 11:05:02,809 - INFO - Condition : Overcast
+2024-12-01 11:05:02,810 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/day/122.png
+2024-12-01 11:05:02,810 - INFO - Condition Code : 1009
+2024-12-01 11:05:02,811 - INFO - Wind Speed (kph) : 6.8
+2024-12-01 11:05:02,812 - INFO - Humidity (%) : 56
+2024-12-01 11:05:02,813 - INFO - Feels Like (°C) : 20.4
+2024-12-01 11:05:02,814 - INFO - UV Index : 3.5
+2024-12-01 11:05:02,815 - INFO - Temp Celsius : 20.4
+2024-12-01 11:05:28,001 - INFO - Data successfully retrieved from API.
+2024-12-01 11:05:28,003 - INFO - Extracting weather data...
+2024-12-01 11:05:28,671 - INFO - Fetching weather data for: faridabad
+2024-12-01 11:05:29,443 - INFO - Data successfully retrieved from API.
+2024-12-01 11:05:29,447 - INFO - Extracting weather data...
+2024-12-01 11:06:11,029 - INFO - Data successfully retrieved from API.
+2024-12-01 11:06:11,031 - INFO - Extracting weather data...
+2024-12-01 11:06:11,801 - INFO - Fetching weather data for: delhi
+2024-12-01 11:06:12,692 - INFO - Data successfully retrieved from API.
+2024-12-01 11:06:12,697 - INFO - Extracting weather data...
+2024-12-01 11:06:33,429 - INFO - Data successfully retrieved from API.
+2024-12-01 11:06:33,433 - INFO - Extracting weather data...
+2024-12-01 11:06:34,184 - INFO - Fetching weather data for: new delhi
+2024-12-01 11:06:34,997 - INFO - Data successfully retrieved from API.
+2024-12-01 11:06:35,002 - INFO - Extracting weather data...
