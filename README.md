@@ -97,18 +97,6 @@ This project covers various potential exceptions that could cause the program to
 
 ---
 
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository, create a branch, and submit a pull request with your proposed changes.
-
----
-
-## License
-
-This project is open-source and available under the MIT License. See the LICENSE file for more information.
-
----
-
 ## Troubleshooting
 
 - **API Key Not Working**: Double-check that your `API_KEY.txt` file contains the correct API key and is located in the `WeatherAPI/apikey` folder.
