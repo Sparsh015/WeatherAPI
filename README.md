@@ -1,4 +1,4 @@
-# WeatherAPI Project
+# SkyTrack - live weather forecasting
 
 A simple and intuitive weather application that fetches live weather data for any location using the **WeatherAPI**. The app provides detailed information such as temperature, humidity, wind speed, UV index, and weather conditions in a user-friendly graphical interface built with **Tkinter**.
 
